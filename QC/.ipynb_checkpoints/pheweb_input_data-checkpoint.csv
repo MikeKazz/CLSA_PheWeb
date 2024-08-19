@@ -1,0 +1,353 @@
+assoc_files,phenocode,phenostring,category,num_cases,num_controls,num_samples
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSA_PAINTMB_COM.txt.gz,OSA_PAINTMB_COM,Pain most days in base of thumbs - past 4 weeks,Health,2449,22001,24450
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ALC_EVER_COM.txt.gz,ALC_EVER_COM,Ever alcohol consumption,Behaviour,24035,469,24504
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_ANXI_COM.txt.gz,CCC_ANXI_COM,Anxiety disorder,Health,2135,22288,24423
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR2_DEVC_BR_COM.txt.gz,CR2_DEVC_BR_COM,Used grab bars,Health,1566,22939,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSH_PAIN_COM.txt.gz,OSH_PAIN_COM,Pain in groin or upper inner thigh - past 4 weeks,Health,1298,23155,24453
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_DRM_MCQ.txt.gz,ORH_EXP_DRM_MCQ,Oral health problems - Dry mouth,Health,4210,19348,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSK_KNERPL_COM.txt.gz,OSK_KNERPL_COM,Knee replacement operation,Health,829,23631,24460
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_HV_MCQ.txt.gz,TRA_AVOID_HV_MCQ,Participant avoids: Heavy traffic,Behaviour,9146,13187,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ENV_HMPRB_NOI_MCQ.txt.gz,ENV_HMPRB_NOI_MCQ,Current home has problems with noise,Socio-economic,1621,21937,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OAR_MED_COM.txt.gz,OAR_MED_COM,Currently taking medication for arthritis,Medications,822,22661,23483
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_SOAC_INT_COM.txt.gz,SPA_SOAC_INT_COM,Uses internet and/or e-mail,Behaviour,22371,2121,24492
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_MOOD_COM.txt.gz,CCC_MOOD_COM,Mood disorder,Health,4208,20224,24432
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_SOAC_HOC_COM.txt.gz,SPA_SOAC_HOC_COM,Taken a holiday outside of Canada in last 12 months,Behaviour,14791,9701,24492
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR2_FAM_ML_COM.txt.gz,CR2_FAM_ML_COM,Received non-professional assistance with meal preparation,Health,1176,23329,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ROS_LOC_05_COM.txt.gz,ROS_LOC_05_COM,WHO Rose - Location of pain or discomfort: Position-05,Health,1017,21938,22955
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR2_DEVC_CN_COM.txt.gz,CR2_DEVC_CN_COM,Used a  cane or walking stick,Health,1987,22518,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_GUMS_MCQ.txt.gz,ORH_EXP_GUMS_MCQ,Oral health problems - Gums around natural teeth are sore,Health,1823,21735,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_PSRCE_PN_COM.txt.gz,INC_PSRCE_PN_COM,Personal job related pensions,Socio-economic,9015,15490,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DPR_CLINDEP_COM.txt.gz,DPR_CLINDEP_COM,Clinical depression,Health,4046,20357,24403
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OST_MOM_COM.txt.gz,OST_MOM_COM,Mother hip fracture after 50,Health,2512,21368,23880
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_HVYHSWK_MCQ.txt.gz,PA2_HVYHSWK_MCQ,PASE scale: Engaged in heavy housework or chores - past 7 days,Behaviour,16617,6930,23547
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAG_HLT_CS_COM.txt.gz,CAG_HLT_CS_COM,Provided social/ emotional assistance,Health,1331,23174,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PKD_FACE_COM.txt.gz,PKD_FACE_COM,Face less expressive,Health,908,22891,23799
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAG_HLT_MD_COM.txt.gz,CAG_HLT_MD_COM,Provided medical care,Health,2754,21751,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_STR_NOVIS_COM.txt.gz,STR_NOVIS_COM,Sudden loss of vision in one eye,Health,857,23578,24435
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_COPD_COM.txt.gz,CCC_COPD_COM,"Emphysema, chronic bronchitis, COPD, or chronic changes in lungs due to smoking",Health,1413,22970,24383
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_RET_WHY_IN_COM.txt.gz,RET_WHY_IN_COM,Employer incentives contributed to retirement,Socio-economic,1590,22824,24414
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_STR_NUMB_COM.txt.gz,STR_NUMB_COM,One-sided sudden numbness,Health,1378,23063,24441
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_SRCE_GV_COM.txt.gz,INC_SRCE_GV_COM,Household RRSP/ RRIF,Socio-economic,6172,18333,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_JJP_MCQ.txt.gz,ORH_EXP_JJP_MCQ,Oral health problems - Jaw joints painful,Health,1370,22188,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_DW_MCQ.txt.gz,TRA_AVOID_DW_MCQ,Participant avoids: Driving at dawn / dusk,Behaviour,2911,19422,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_GUMB_MCQ.txt.gz,ORH_EXP_GUMB_MCQ,Oral health problems - Gums around natural teeth bleed,Health,2613,20945,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_ASSETS_MOWD_MCQ.txt.gz,WEA_ASSETS_MOWD_MCQ,Type of assets: Money owed to you by others,Socio-economic,2369,21189,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_PRVPA_ENG_MCQ.txt.gz,PA2_PRVPA_ENG_MCQ,Factor preventing participation in more physical activities - Lack of energy,Behaviour,1023,22475,23498
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OST_BONE_COM.txt.gz,OST_BONE_COM,Broken bone from fall or injury,Health,3708,20709,24417
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DIA_DIAB_COM.txt.gz,DIA_DIAB_COM,"Diabetes, borderline diabetes or blood sugar is high",Health,4191,20244,24435
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PKD_BUTON_COM.txt.gz,PKD_BUTON_COM,Trouble buttoning buttons,Health,1584,22867,24451
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_PUBTR_PNU_MCQ.txt.gz,TRA_PUBTR_PNU_MCQ,Did not use public transit: Prefer no to use,Behaviour,3228,20330,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SIT_TV_MCQ.txt.gz,PA2_SIT_TV_MCQ,PASE scale: Participated in sitting activities - Watching TV,Behaviour,20560,2980,23540
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_OAHIP_COM.txt.gz,CCC_OAHIP_COM,Osteoarthritis in the hip,Health,2048,22197,24245
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_DEBT_NONE_MCQ.txt.gz,WEA_DEBT_NONE_MCQ,Type of debts: No debt,Socio-economic,14086,9472,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_FPAR_COM.txt.gz,SPA_FPAR_COM,Flag for Participation in Community-Related Activities (past 12 months),Behaviour,24445,31,24476
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_SOBPM_COM.txt.gz,CAO_SOBPM_COM,Shortness of breath following strenuous activity - last 12 months,Health,4412,19906,24318
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_CMNTY_HOU_MCQ.txt.gz,TRA_CMNTY_HOU_MCQ,Reasons for moving to current location: Better / more suitable housing,Behaviour,9691,13867,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_ASSETS_OTL_MCQ.txt.gz,WEA_ASSETS_OTL_MCQ,Type of assets: Other land,Socio-economic,1887,21671,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_RET_WHY_HO_COM.txt.gz,RET_WHY_HO_COM,Desire to pursue hobbies or activities of interest contributed to retirement,Behaviour,4256,20158,24414
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ENV_HMPRB_LEA_MCQ.txt.gz,ENV_HMPRB_LEA_MCQ,Current home has problems with leaking,Socio-economic,1007,22551,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TRIP_MD_MCQ.txt.gz,TRA_TRIP_MD_MCQ,Typical weekly trips: Medical appointments,Behaviour,5899,17659,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_ALLRG_COM.txt.gz,CCC_ALLRG_COM,Allergies,Health,9284,15009,24293
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TRIP_FM_MCQ.txt.gz,TRA_TRIP_FM_MCQ,Typical weekly trips: Visiting friends / family,Behaviour,17644,5914,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_CANTP_SNM_COM.txt.gz,CCC_CANTP_SNM_COM,Skin cancer: non-melanoma,Health,884,23558,24442
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_CMNTY_EMP_MCQ.txt.gz,TRA_CMNTY_EMP_MCQ,Reasons for moving to current location: Employment opportunities,Behaviour,4748,18810,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_HRG_USE_AID_COM.txt.gz,HRG_USE_AID_COM,Uses Hearing aid,Health,1296,23207,24503
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR2_FAM_TR_COM.txt.gz,CR2_FAM_TR_COM,Received non-professional assistance with transportation,Health,1616,22889,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SIT_HAN_MCQ.txt.gz,PA2_SIT_HAN_MCQ,PASE scale: Participated in sitting activities - Handicrafts,Behaviour,3002,20538,23540
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SSPRT_JOG_MCQ.txt.gz,PA2_SSPRT_JOG_MCQ,PASE scale: Participated in strenuous sport or activity - Jogging,Behaviour,1482,22066,23548
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SMK_TYPEOT_PI_COM.txt.gz,SMK_TYPEOT_PI_COM,Ever used tobacco pipes,Behaviour,1349,23153,24502
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DSU_MLTV_MCQ.txt.gz,DSU_MLTV_MCQ,Took multivitamin supplements in past month,Medications,7689,15834,23523
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SIT_COM_MCQ.txt.gz,PA2_SIT_COM_MCQ,PASE scale: Participated in sitting activities - Computer activities,Behaviour,16910,6630,23540
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_PREVAC_TI_COM.txt.gz,SPA_PREVAC_TI_COM,Suitability of activity timing  prevented participation,Behaviour,1334,23118,24452
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSH_PAINSL_COM.txt.gz,OSH_PAINSL_COM,Pain in groin or upper inner thigh climbing down stairs or walking down slopes - past 4 weeks,Health,992,23402,24394
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_PREVAC_TB_COM.txt.gz,SPA_PREVAC_TB_COM,Being too busy prevented activities participation,Behaviour,5207,19245,24452
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_CMNTY_REC_MCQ.txt.gz,TRA_CMNTY_REC_MCQ,Reasons for moving to current location: Recreation facilities / services,Behaviour,1302,22256,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_RSLT_KO1_COM.txt.gz,TBI_RSLT_KO1_COM,"Head injury result - lost consciousness, less than 1min",Health,1593,22880,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_FAS_COMP_S_COM.txt.gz,FAS_COMP_S_COM,Completed reciting S words,Behaviour,24324,113,24437
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_LBF_LGEVER_COM.txt.gz,LBF_LGEVER_COM,Longest period in the same job,Socio-economic,6498,3039,9537
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_RET_WHY_CM_COM.txt.gz,RET_WHY_CM_COM,Qualifying for pension contributed to retirement,Socio-economic,4675,19739,24414
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_THNGS_TRSP_MCQ.txt.gz,WEA_THNGS_TRSP_MCQ,Lack of money prevents: Paying fares or transportation costs,Socio-economic,816,22742,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_SVNGS_ACC_MCQ.txt.gz,WEA_SVNGS_ACC_MCQ,Type of saving and investments: Bank account,Socio-economic,22957,601,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_THNGS_FOD_MCQ.txt.gz,WEA_THNGS_FOD_MCQ,Lack of money prevents: Buying first choices of food items,Socio-economic,1203,22355,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SSPRT_OT_MCQ.txt.gz,PA2_SSPRT_OT_MCQ,PASE scale: Participated in other strenuous sport or activity,Behaviour,1327,22221,23548
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_NT_MCQ.txt.gz,TRA_AVOID_NT_MCQ,Participant avoids: Driving at night,Behaviour,6506,15827,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TRIP_RI_MCQ.txt.gz,TRA_TRIP_RI_MCQ,"Typical weekly trips: Recreational shopping, restaurants",Behaviour,16428,7130,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DIA_TYPE2_COM.txt.gz,DIA_TYPE2_COM,Type 2 diabetes,Health,2130,1877,4007
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSA_LGJNT_COM.txt.gz,OSA_LGJNT_COM,Enlargement small joints close to the fingernails,Health,5065,19372,24437
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TRIP_SO_MCQ.txt.gz,TRA_TRIP_SO_MCQ,Typical weekly trips: Social activities,Behaviour,10840,12718,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_COFAM_COM.txt.gz,CAO_COFAM_COM,Cough up phlegm in the morning,Health,1693,22765,24458
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_URIINC_COM.txt.gz,CCC_URIINC_COM,Urinary incontinence,Health,2043,22401,24444
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_PSRCE_GV_COM.txt.gz,INC_PSRCE_GV_COM,Personal RRSP/ RRIF,Socio-economic,5388,19117,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SIT_VIS_MCQ.txt.gz,PA2_SIT_VIS_MCQ,PASE scale: Participated in sitting activities - Visiting with others,Behaviour,6014,17526,23540
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ICQ_FXNOSE_COM.txt.gz,ICQ_FXNOSE_COM,Broken or fractured nose,Health,1158,23338,24496
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_SOAC_RNP_COM.txt.gz,SPA_SOAC_RNP_COM,Reads a daily newspaper,Behaviour,17006,7486,24492
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DEP_DPSFD_COM.txt.gz,DEP_DPSFD_COM,CES-D 10: Screen for depression result,Health,3717,20709,24426
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PKD_WALK_COM.txt.gz,PKD_WALK_COM,Shuffle feet,Health,1069,23339,24408
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_ULCR_COM.txt.gz,CCC_ULCR_COM,Intestinal or stomach ulcers,Health,1813,22587,24400
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_VIS_USE_MG_COM.txt.gz,VIS_USE_MG_COM,Uses Magnifiers,Health,1964,22536,24500
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DSU_CAL_MCQ.txt.gz,DSU_CAL_MCQ,Took calcium supplements in past month,Medications,6702,16807,23509
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_F2_COM.txt.gz,CCC_F2_COM,"Reported having a Chronic Condition (excludes ""other"" chronic conditions)",Health,22529,1810,24339
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SNO_SNORE_MCQ.txt.gz,SNO_SNORE_MCQ,Snores loudly,Behaviour,6009,15445,21454
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_SRCE_PN_COM.txt.gz,INC_SRCE_PN_COM,Household job related pensions,Socio-economic,10814,13691,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SNO_STOPBREATH_MCQ.txt.gz,SNO_STOPBREATH_MCQ,Stopped breathing in sleep,Behaviour,3450,19633,23083
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SSPRT_AER_MCQ.txt.gz,PA2_SSPRT_AER_MCQ,PASE scale: Participated in strenuous sport or activity - Aerobic dance or water aerobics,Behaviour,1055,22493,23548
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INT_WYSSCL_FAM_MCQ.txt.gz,INT_WYSSCL_FAM_MCQ,Uses social networking sites to stay in touch or make plans with family,Behaviour,8800,12735,21535
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSH_LOM_COM.txt.gz,OSH_LOM_COM,Range of motion of  hips limitation - past 4 weeks,Health,2354,22069,24423
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_COFPY_COM.txt.gz,CAO_COFPY_COM,Coughed most days - last 12 months,Health,3911,20518,24429
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_SOAC_VOT_COM.txt.gz,SPA_SOAC_VOT_COM,Voted in last election,Behaviour,23063,1429,24492
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_BCKP_COM.txt.gz,CCC_BCKP_COM,Back problems excluding fibromyalgia and arthritis,Health,6827,17599,24426
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_STR_VIS_COM.txt.gz,STR_VIS_COM,Sudden painless loss of vision,Health,1384,23060,24444
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_LTHSWK_MCQ.txt.gz,PA2_LTHSWK_MCQ,PASE scale: Engaged in light housework - past 7 days,Behaviour,22379,1169,23548
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DSU_VITB12_MCQ.txt.gz,DSU_VITB12_MCQ,Took vitamin B12 supplements in past month,Medications,4112,19367,23479
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_THNGS_NONE_MCQ.txt.gz,WEA_THNGS_NONE_MCQ,Lack of money prevents: None of these,Socio-economic,16464,7094,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_CRPRSN_MCQ.txt.gz,PA2_CRPRSN_MCQ,PASE scale: Engaged in caring for another person - past 7 days,Behaviour,7212,16336,23548
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_ASSETS_PRES_MCQ.txt.gz,WEA_ASSETS_PRES_MCQ,Type of assets: Principal residence,Socio-economic,19714,3844,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR1_PRO_NONE_COM.txt.gz,CR1_PRO_NONE_COM,Did not require professional assistance,Health,23392,1113,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_HCU_FAMPHY_MCQ.txt.gz,HCU_FAMPHY_MCQ,"Contact with a general practitioner, family physician in past 12 months",Health,21225,2301,23526
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_MCR_NONE_COM.txt.gz,TBI_MCR_NONE_COM,Received no medical care for head injury,Health,2339,22134,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TYPTR_NONE_MCQ.txt.gz,TRA_TYPTR_NONE_MCQ,Form of transport used in last month: None,Behaviour,1864,21694,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_JWS_MCQ.txt.gz,ORH_EXP_JWS_MCQ,Oral health problems - Jaw muscles sore,Health,1257,22301,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_RSLT_DZ_COM.txt.gz,TBI_RSLT_DZ_COM,"Head injury result - dazed, confused, or “seeing stars”",Health,4254,20219,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_RSLT_KO20_COM.txt.gz,TBI_RSLT_KO20_COM,"Head injury result - lost consciousness, 1 to 20 min",Health,1184,23289,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_COLD_COM.txt.gz,CAO_COLD_COM,Frequent colds persisting longer than other people,Health,1281,23136,24417
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INT_ACCESSHM_MCQ.txt.gz,INT_ACCESSHM_MCQ,Access to internet or email at home,Socio-economic,21993,1532,23525
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_ARTOT_COM.txt.gz,CCC_ARTOT_COM,Other type of arthritis,Health,2457,21736,24193
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ENV_HMPRB_NONE_MCQ.txt.gz,ENV_HMPRB_NONE_MCQ,Current home has no problems,Socio-economic,18747,4811,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_AMI_COM.txt.gz,CCC_AMI_COM,Heart attack or myocardial infarction,Health,1175,23234,24409
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_PREVAC_MO_COM.txt.gz,SPA_PREVAC_MO_COM,Lack of motivation prevented activities participation,Behaviour,1523,22929,24452
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSA_PAINJNT_COM.txt.gz,OSA_PAINJNT_COM,Pain most days in small joints close to fingernails - past 4 weeks,Health,1951,22498,24449
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_LTODA_MCQ.txt.gz,PA2_LTODA_MCQ,"PASE scale: Engaged in outdoor gardening, sweeping the balcony or the stairs - past 7 days",Behaviour,12530,11024,23554
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_THNGS_FFO_MCQ.txt.gz,WEA_THNGS_FFO_MCQ,Lack of money prevents: Having family/friends around for drink/meal,Socio-economic,952,22606,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_HCU_HLOVRNT_MCQ.txt.gz,HCU_HLOVRNT_MCQ,Patient in a hospital overnight  in past 12 months,Health,1903,21645,23548
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_HCU_PHYSIO_MCQ.txt.gz,HCU_PHYSIO_MCQ,"Contact with a physiotherapist, occupational therapist, or chiropractor in past 12 months",Health,8230,15297,23527
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SMK_100CG_COM.txt.gz,SMK_100CG_COM,Ever smoked 100 cigarettes or more,Behaviour,13067,11416,24483
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WLK_SMPTS_NONE_COM.txt.gz,WLK_SMPTS_NONE_COM,Participant experienced no symptoms during 4m walk,Health,23210,1137,24347
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_LG_MCQ.txt.gz,TRA_AVOID_LG_MCQ,Participant avoids: Travelling next to large trucks,Behaviour,4221,18112,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_RET_WHY_ST_COM.txt.gz,RET_WHY_ST_COM,Desire to stop working contributed to retirement,Behaviour,5569,18845,24414
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_EXER_WEI_MCQ.txt.gz,PA2_EXER_WEI_MCQ,PASE scale: Exercised to increase muscle strength - Weight lifting and hand weights,Behaviour,4664,18881,23545
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SIT_REA_MCQ.txt.gz,PA2_SIT_REA_MCQ,PASE scale: Participated in sitting activities - Reading,Behaviour,18281,5259,23540
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PKD_VOICE_COM.txt.gz,PKD_VOICE_COM,Voice softer,Health,1269,23111,24380
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_SVNGS_RRSP_MCQ.txt.gz,WEA_SVNGS_RRSP_MCQ,Type of saving and investments: RRSPs,Socio-economic,18942,4616,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_COFMAM_COM.txt.gz,CAO_COFMAM_COM,Cough phlegm most mornings,Health,1126,23327,24453
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_ASSETS_OT_MCQ.txt.gz,WEA_ASSETS_OT_MCQ,Type of assets: Other assets,Socio-economic,5364,18194,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_NTD_MCQ.txt.gz,ORH_EXP_NTD_MCQ,Oral health problems - Natural tooth decayed,Health,3396,20162,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TYPTR_PUB_MCQ.txt.gz,TRA_TYPTR_PUB_MCQ,Form of transport used in last month: Public transit,Behaviour,7004,16554,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OST_BP_COM.txt.gz,OST_BP_COM,Back pain at least one month,Health,8235,16197,24432
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_HBP_TRT_COM.txt.gz,HBP_TRT_COM,Non-pharmacological treatments to lower high blood pressure,Behaviour,6002,18368,24370
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSA_LGTMB_COM.txt.gz,OSA_LGTMB_COM,Enlargement in base of thumbs,Health,2060,22352,24412
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_MGRN_COM.txt.gz,CCC_MGRN_COM,Migraine headaches,Health,3191,21243,24434
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_FAL_12MN_MCQ.txt.gz,FAL_12MN_MCQ,Falls in the last 12 months,Health,2566,20980,23546
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_CHW_MCQ.txt.gz,ORH_EXP_CHW_MCQ,Oral health problems - Cannot chew adequately,Health,1882,21676,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_THNGS_HMR_MCQ.txt.gz,WEA_THNGS_HMR_MCQ,Lack of  money prevents: Keeping home in good state,Socio-economic,1376,22182,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_EXER_OT_MCQ.txt.gz,PA2_EXER_OT_MCQ,PASE scale: Exercised to increase muscle strength - Other,Behaviour,1408,22137,23545
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_CANC_COM.txt.gz,CCC_CANC_COM,Cancer,Health,3714,20728,24442
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INT_SCLNTWRK_MCQ.txt.gz,INT_SCLNTWRK_MCQ,Uses social networking sites,Behaviour,11730,9805,21535
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_CMNTY_CLI_MCQ.txt.gz,TRA_CMNTY_CLI_MCQ,Reasons for moving to current location: Climate and natural environment,Behaviour,1044,22514,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_IBDIBS_COM.txt.gz,CCC_IBDIBS_COM,Bowel disorder,Health,2371,22042,24413
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TMT_PASS_COM.txt.gz,TMT_PASS_COM,Subject passed all practice trials,Health,24266,15,24281
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_MEDTPC_CON_MCQ.txt.gz,TRA_MEDTPC_CON_MCQ,Discussed with medical professional: Safety related to medical condition,Behaviour,834,20492,21326
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_PUBTR_UNA_MCQ.txt.gz,TRA_PUBTR_UNA_MCQ,Did not use public transit: Service unavailable in participant's area,Behaviour,2304,21254,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SLE_LGEVE_COM.txt.gz,SLE_LGEVE_COM,Uncomfortable feelings or urges in legs worse during evening/ at night,Health,6843,2894,9737
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_NL_MCQ.txt.gz,TRA_AVOID_NL_MCQ,Participant avoids: Left hand turns without traffic lights or stop sign,Behaviour,1747,20586,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSA_NBFNG_COM.txt.gz,OSA_NBFNG_COM,Number of fingers with enlarged small joints,Measurements,3484,20948,24432
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_PRVPA_ILL_MCQ.txt.gz,PA2_PRVPA_ILL_MCQ,Factor preventing participation in more physical activities - Illness/injury,Behaviour,1973,21525,23498
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ENV_HMPRB_INF_MCQ.txt.gz,ENV_HMPRB_INF_MCQ,Current home has problems with infestations,Socio-economic,831,22727,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_RET_WHY_PR_COM.txt.gz,RET_WHY_PR_COM,Providing care contributed to retirement,Socio-economic,1310,23104,24414
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR2_FAM_AC_COM.txt.gz,CR2_FAM_AC_COM,Received non-professional assistance with activities,Health,1829,22676,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_SOAC_HIC_COM.txt.gz,SPA_SOAC_HIC_COM,Taken a holiday in Canada in last 12 months,Behaviour,17218,7274,24492
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_STR_NOEXP_COM.txt.gz,STR_NOEXP_COM,Sudden loss of expression ability,Health,1066,23376,24442
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_DNU_MCQ.txt.gz,ORH_EXP_DNU_MCQ,Oral health problems - Dentures uncomfortable,Health,807,22751,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSK_PAIN_COM.txt.gz,OSK_PAIN_COM,Knee pain - past 4 weeks,Health,4578,19864,24442
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_ASSETS_CINH_MCQ.txt.gz,WEA_ASSETS_CINH_MCQ,Type of assets: A covenant or inheritance,Socio-economic,2734,20824,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_STR_WEAK_COM.txt.gz,STR_WEAK_COM,One-sided sudden painless weakness,Health,992,23435,24427
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_RSLT_NONE_COM.txt.gz,TBI_RSLT_NONE_COM,Head injury did not result in any of above,Health,1218,23255,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_LBF_EVER_COM.txt.gz,LBF_EVER_COM,Ever worked,Socio-economic,10633,59,10692
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_SOBFLAT_COM.txt.gz,CAO_SOBFLAT_COM,Short of breath walking on flat surface,Health,1735,22687,24422
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_ACCTR_NN_MCQ.txt.gz,TRA_ACCTR_NN_MCQ,Did not use accessible transit: Not needed,Behaviour,21138,2420,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_MEDTPC_ADV_MCQ.txt.gz,TRA_MEDTPC_ADV_MCQ,Discussed with medical professional: General information / advice,Behaviour,871,20455,21326
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PKD_SHKE_COM.txt.gz,PKD_SHKE_COM,Arms or legs shake,Health,1712,22743,24455
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ED_OTED_COM.txt.gz,ED_OTED_COM,Education other degree,Socio-economic,20790,3709,24499
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_NTB_MCQ.txt.gz,ORH_EXP_NTB_MCQ,Oral health problems - Natural tooth broken,Health,2560,20998,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_SOAC_DT_COM.txt.gz,SPA_SOAC_DT_COM,Gone on a daytrip or outing in last 12 months,Behaviour,22784,1708,24492
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_TYP_VH_COM.txt.gz,TBI_TYP_VH_COM,Head Injury caused by vehicular crash,Health,1959,22514,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_PREVAC_PR_COM.txt.gz,SPA_PREVAC_PR_COM,Personal/ family responsibility prevented activities participation,Behaviour,2228,22224,24452
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DSU_IRON_MCQ.txt.gz,DSU_IRON_MCQ,Took iron supplements in past month,Medications,1332,22164,23496
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAG_HLT_TR_COM.txt.gz,CAG_HLT_TR_COM,Provided assistance with transportation,Health,7994,16511,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_PUBTR_NN_MCQ.txt.gz,TRA_PUBTR_NN_MCQ,Did not use public transit: Not needed,Behaviour,9381,14177,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INJ_CAUS_FL_COM.txt.gz,INJ_CAUS_FL_COM,Injury caused by a fall,Health,1257,23225,24482
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_RA_MCQ.txt.gz,TRA_AVOID_RA_MCQ,Participant avoids: On/off ramps,Behaviour,866,21467,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SLE_LGIMPR_COM.txt.gz,SLE_LGIMPR_COM,Uncomfortable feelings or urges in legs disappear when active,Health,8163,1460,9623
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_LBF_CURR_COM.txt.gz,LBF_CURR_COM,Currently working,Socio-economic,9546,1144,10690
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_ASSETS_FBS_MCQ.txt.gz,WEA_ASSETS_FBS_MCQ,Type of assets: Farm or business property,Socio-economic,1475,22083,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_HBP_COM.txt.gz,CCC_HBP_COM,High blood pressure or hypertension,Health,8999,15376,24375
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_THNGS_POF_MCQ.txt.gz,WEA_THNGS_POF_MCQ,Lack of  money prevents: Having outfit for occasions,Socio-economic,1231,22327,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_MORAC_COM.txt.gz,SPA_MORAC_COM,Desire to participate in more activities (past 12 months),Behaviour,11528,12924,24452
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_PREVAC_CO_COM.txt.gz,SPA_PREVAC_CO_COM,Cost prevented activities participation,Socio-economic,838,23614,24452
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_RET_WHY_RE_COM.txt.gz,RET_WHY_RE_COM,Financial possibility contributed to retirement,Socio-economic,6469,17945,24414
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_LFP_LNGST_COM.txt.gz,LFP_LNGST_COM,Longest job,Socio-economic,10040,3654,13694
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_SOBUP_COM.txt.gz,CAO_SOBUP_COM,Short of breath climbing stairs or walking uphill,Health,6333,18032,24365
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_THNGS_HLDY_MCQ.txt.gz,WEA_THNGS_HLDY_MCQ,Lack of money prevents: Taking desired holidays,Socio-economic,6197,17361,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_NUR_DHNR_MCQ.txt.gz,NUR_DHNR_MCQ,High Nutritional Risk Indicator,Behaviour,8131,15193,23324
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SSPRT_SWI_MCQ.txt.gz,PA2_SSPRT_SWI_MCQ,PASE scale: Participated in strenuous sport or activity - Swimming (with laps),Behaviour,1042,22506,23548
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_RET_WHY_HL_COM.txt.gz,RET_WHY_HL_COM,Health/ disability/ stress contributed to retirement,Health,3234,21180,24414
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_MACDEG_COM.txt.gz,CCC_MACDEG_COM,Macular degeneration,Health,1035,23329,24364
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_CMNTY_COS_MCQ.txt.gz,TRA_CMNTY_COS_MCQ,Reasons for moving to current location: Lower cost of living,Behaviour,2418,21140,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_SRCE_CP_COM.txt.gz,INC_SRCE_CP_COM,Household capital gains,Socio-economic,2755,21750,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_RET_RTRN_COM.txt.gz,RET_RTRN_COM,Retired then returned to work,Behaviour,3635,20731,24366
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DIA_TYPE1_COM.txt.gz,DIA_TYPE1_COM,Type 1 diabetes,Health,135,3872,4007
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SIT_CRO_MCQ.txt.gz,PA2_SIT_CRO_MCQ,"PASE scale: Participated in sitting activities - Crosswords, puzzles, etc.",Behaviour,4177,19363,23540
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_RET_SPSE_COM.txt.gz,RET_SPSE_COM,Retirement status of spouse/ partner,Socio-economic,7718,9186,16904
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_HCU_DEN_MCQ.txt.gz,HCU_DEN_MCQ,Contact with a dentist in past 12 months,Health,19532,4010,23542
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OST_FRAC_OT_COM.txt.gz,OST_FRAC_OT_COM,Type of fracture - Other,Health,2699,21718,24417
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_LBF_MANY_COM.txt.gz,LBF_MANY_COM,Currently working more than one job/ business,Socio-economic,1765,8683,10448
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_MSPRT_GOL_MCQ.txt.gz,PA2_MSPRT_GOL_MCQ,PASE scale: Participated in moderate sport or activity - Golf (without a cart),Behaviour,957,22593,23550
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TRIP_GR_MCQ.txt.gz,TRA_TRIP_GR_MCQ,Typical weekly trips: Grocery shopping,Behaviour,20806,2752,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_EXERT_COM.txt.gz,CAO_EXERT_COM,Wheeze with mild to moderate exertion,Health,1962,22448,24410
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_SL_MCQ.txt.gz,TRA_AVOID_SL_MCQ,Participant avoids: Heavy traffic on single-lane,Behaviour,7214,15119,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_SWL_MCQ.txt.gz,ORH_EXP_SWL_MCQ,Oral health problems - Swelling in your mouth,Health,1074,22484,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_FAS_COMP_A_COM.txt.gz,FAS_COMP_A_COM,Completed reciting A words,Behaviour,24357,80,24437
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_PRVPA_TIM_MCQ.txt.gz,PA2_PRVPA_TIM_MCQ,Factor preventing participation in more physical activities - Lack of time,Behaviour,5673,17825,23498
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_SRCE_IN_COM.txt.gz,INC_SRCE_IN_COM,Household dividends and interest,Socio-economic,8499,16006,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_ML_MCQ.txt.gz,TRA_AVOID_ML_MCQ,Participant avoids: Heavy traffic on multi-lane,Behaviour,7648,14685,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_F1_COM.txt.gz,CCC_F1_COM,"Reported having a Chronic Condition (includes ""other"" chronic conditions)",Health,22936,1434,24370
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INT_WYSSCL_OT_MCQ.txt.gz,INT_WYSSCL_OT_MCQ,Ways use social networking sites - other,Behaviour,1451,20084,21535
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_EXER_CAL_MCQ.txt.gz,PA2_EXER_CAL_MCQ,PASE scale: Exercised to increase muscle strength - Callisthenics,Behaviour,1919,21626,23545
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_POSITIVE_COM.txt.gz,TBI_POSITIVE_COM,Positive Screen for Traumatic Brain Injury (TBI),Health,6102,18403,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR2_DEVC_NONE_COM.txt.gz,CR2_DEVC_NONE_COM,Did not use any assistive devices,Health,20030,4475,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SIT_LIS_MCQ.txt.gz,PA2_SIT_LIS_MCQ,PASE scale: Participated in sitting activities - Listening to radio/music,Behaviour,3314,20226,23540
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TRIP_BK_MCQ.txt.gz,TRA_TRIP_BK_MCQ,Typical weekly trips: Banking / business appointments,Behaviour,11356,12202,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_OT_MCQ.txt.gz,ORH_EXP_OT_MCQ,Oral health problems - Other,Health,868,22690,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_HCU_PSYCH_MCQ.txt.gz,HCU_PSYCH_MCQ,Contact with a psychologist in past 12 months,Health,1167,22364,23531
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAG_HLT_ML_COM.txt.gz,CAG_HLT_ML_COM,Provided assistance with meal preparation,Health,4631,19874,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_PUBTR_INC_MCQ.txt.gz,TRA_PUBTR_INC_MCQ,Did not use public transit: Inconvenient schedule / route,Behaviour,3908,19650,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_TYP_SPT_COM.txt.gz,TBI_TYP_SPT_COM,Head Injury caused by sports-related activity,Health,3262,21211,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_IHD_ANGIO_COM.txt.gz,IHD_ANGIO_COM,Angiogram,Health,2148,20565,22713
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_UN_MCQ.txt.gz,TRA_AVOID_UN_MCQ,Participant avoids: unfamiliar routes,Behaviour,2529,19804,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ROS_LOC_06_COM.txt.gz,ROS_LOC_06_COM,WHO Rose - Location of pain or discomfort: Position-06,Health,2102,20853,22955
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_HCU_EMEREG_MCQ.txt.gz,HCU_EMEREG_MCQ,Seen in an Emergency Department in past 12 months,Health,4454,19068,23522
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_FAS_COMP_F_COM.txt.gz,FAS_COMP_F_COM,Completed reciting F words,Behaviour,24390,47,24437
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_WKCOF_COM.txt.gz,CAO_WKCOF_COM,Woken up with an attack of coughing - last 12 months,Health,4998,19424,24422
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_HEART_COM.txt.gz,CCC_HEART_COM,"Heart disease (including congestive heart failure, or CHF)",Health,2833,21539,24372
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR2_FAM_NONE_COM.txt.gz,CR2_FAM_NONE_COM,Did not require non-professional assistance,Health,21869,2636,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TYPTR_WAL_MCQ.txt.gz,TRA_TYPTR_WAL_MCQ,Form of transport used in last month: Walking,Behaviour,16560,6998,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_OSTPO_COM.txt.gz,CCC_OSTPO_COM,Osteoporosis,Health,2120,22185,24305
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SSPRT_BIC_MCQ.txt.gz,PA2_SSPRT_BIC_MCQ,PASE scale: Participated in strenuous sport or activity - Bicycling/exercise bike,Behaviour,3495,20053,23548
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAG_HLT_NONE_COM.txt.gz,CAG_HLT_NONE_COM,Did not provide assistance,Health,13721,10784,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_WRK_MCQ.txt.gz,PA2_WRK_MCQ,PASE scale: Work for pay or volunteer  - past 7 days,Behaviour,13252,10299,23551
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_RET_WHY_OR_COM.txt.gz,RET_WHY_OR_COM,Organizational restructuring contributed to retirement,Socio-economic,2099,22315,24414
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_PSRCE_IN_COM.txt.gz,INC_PSRCE_IN_COM,Personal dividends and interest,Socio-economic,7338,17167,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ICQ_FXCOLLR_COM.txt.gz,ICQ_FXCOLLR_COM,Broken or fractured collar bone,Health,1298,23194,24492
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TYPTR_CYC_MCQ.txt.gz,TRA_TYPTR_CYC_MCQ,Form of transport used in last month: Cycling,Behaviour,4220,19338,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_OAKNEE_COM.txt.gz,CCC_OAKNEE_COM,Osteoarthritis in the knee,Health,3689,20528,24217
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_EXER_PUS_MCQ.txt.gz,PA2_EXER_PUS_MCQ,PASE scale: Exercised to increase muscle strength - Push-ups,Behaviour,1706,21839,23545
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_HUP_FREE_MCQ.txt.gz,HUP_FREE_MCQ,Usually free of pain and discomfort,Health,14946,8586,23532
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_ASTHM_COM.txt.gz,CCC_ASTHM_COM,Asthma,Health,3234,21172,24406
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_HVYODA_MCQ.txt.gz,PA2_HVYODA_MCQ,PASE scale: Engaged in lawn work or yard care - past 7 days,Behaviour,12216,11335,23551
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_DRUTI_COM.txt.gz,CCC_DRUTI_COM,Urinary Tract Infection - past year,Health,1747,22692,24439
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_SOAC_HY_COM.txt.gz,SPA_SOAC_HY_COM,Has a hobby or pastime,Behaviour,22816,1676,24492
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_BB_MCQ.txt.gz,ORH_EXP_BB_MCQ,Oral health problems - Bad breath,Health,1674,21884,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_TEETH_MCQ.txt.gz,ORH_TEETH_MCQ,Has one or more of original teeth,Health,22019,1538,23557
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_THNGS_TRSLF_MCQ.txt.gz,WEA_THNGS_TRSLF_MCQ,Lack of money prevents: Treating oneself,Socio-economic,2214,21344,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR2_FRHC_COM.txt.gz,CR2_FRHC_COM,Flag for Receiving Informal Home Care (Last 12 Months),Behaviour,2626,21869,24495
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_IHD_CAB_COM.txt.gz,IHD_CAB_COM,Coronary artery bypass surgery,Health,1453,22996,24449
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_UTHYR_COM.txt.gz,CCC_UTHYR_COM,UNDER-active thyroid gland,Health,3210,21002,24212
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_PSRCE_CP_COM.txt.gz,INC_PSRCE_CP_COM,Personal capital gains,Socio-economic,2269,22236,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_MCR_PHA_COM.txt.gz,TBI_MCR_PHA_COM,Physician assessment/visit for head injury,Health,2399,22074,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_RSLT_DRM_COM.txt.gz,TBI_RSLT_DRM_COM,Head injury result - not remembering injury,Health,1323,23150,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAG_HLT_MG_COM.txt.gz,CAG_HLT_MG_COM,Provided managing care,Health,3870,20635,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_PREVAC_GA_COM.txt.gz,SPA_PREVAC_GA_COM,Going alone prevented activities participation,Behaviour,1550,22902,24452
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_EXER_SIT_MCQ.txt.gz,PA2_EXER_SIT_MCQ,PASE scale: Exercised to increase muscle strength - Sit-ups,Behaviour,1742,21803,23545
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_HMREPAIR_MCQ.txt.gz,PA2_HMREPAIR_MCQ,PASE scale: Engaged in home repairs - past 7 days,Behaviour,5845,17696,23541
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_OAHAND_COM.txt.gz,CCC_OAHAND_COM,Osteoarthritis in one or both hands,Health,3164,21103,24267
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SDC_FIMM_COM.txt.gz,SDC_FIMM_COM,Immigration Flag,Identity,3589,20913,24502
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_CR_MCQ.txt.gz,TRA_AVOID_CR_MCQ,Participant avoids: Roundabouts,Behaviour,1072,21261,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_DNL_MCQ.txt.gz,ORH_EXP_DNL_MCQ,Oral health problems - Dentures loose/don't fit,Health,855,22703,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_PRVPA_HEA_MCQ.txt.gz,PA2_PRVPA_HEA_MCQ,Factor preventing participation in more physical activities - Health condition limitation,Behaviour,2465,21033,23498
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR1_PRO_AC_COM.txt.gz,CR1_PRO_AC_COM,Received professional assistance with activities,Health,746,23759,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_SRCE_BN_COM.txt.gz,INC_SRCE_BN_COM,Household benefits from Canada or Quebec pension plan,Socio-economic,13199,11306,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_DRFLU_COM.txt.gz,CCC_DRFLU_COM,Flu (Influenza) - past year,Health,1527,22906,24433
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TYPTR_TAX_MCQ.txt.gz,TRA_TYPTR_TAX_MCQ,Form of transport used in last month: Taxi,Behaviour,3881,19677,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_SRCE_CH_COM.txt.gz,INC_SRCE_CH_COM,Household child tax benefit,Socio-economic,951,23554,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_PROB_NONE_COM.txt.gz,TBI_PROB_NONE_COM,Not experiencing any problems related to head injury,Health,5486,18987,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_TYP_FL_COM.txt.gz,TBI_TYP_FL_COM,Head Injury caused by fall,Health,3058,21415,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OST_CST_COM.txt.gz,OST_CST_COM,Ever taken systemic corticosteroids,Medications,3171,20852,24023
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_SRCE_WG_COM.txt.gz,INC_SRCE_WG_COM,Household wages and salaries,Socio-economic,12720,11785,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ENV_HMPRB_MAI_MCQ.txt.gz,ENV_HMPRB_MAI_MCQ,Current home has problems with maintenance or repairs,Socio-economic,1277,22281,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR1_FRHC_COM.txt.gz,CR1_FRHC_COM,Flag for Receiving Formal Home Care Services (Last 12 Months),Behaviour,1100,23392,24492
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ROS_PAIN_COM.txt.gz,ROS_PAIN_COM,WHO Rose - Chest pain or discomfort,Health,5722,17233,22955
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_SRCE_GIS_COM.txt.gz,INC_SRCE_GIS_COM,Household guaranteed income supplement,Socio-economic,813,23692,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_PVD_COM.txt.gz,CCC_PVD_COM,Peripheral vascular disease or poor circulation in limbs,Health,1285,23096,24381
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_NUR_CKMEALS_MCQ.txt.gz,NUR_CKMEALS_MCQ,SCREEN II-AB: Cook own meals,Behaviour,17767,5725,23492
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DSU_VITD_MCQ.txt.gz,DSU_VITD_MCQ,Took vitamin D supplements in past month,Medications,11545,11960,23505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAG_HLT_PR_COM.txt.gz,CAG_HLT_PR_COM,Provided personal care,Health,3071,21434,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSK_SWELL_COM.txt.gz,OSK_SWELL_COM,Swelling in knee - past 4 weeks,Health,2222,22152,24374
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_SN_MCQ.txt.gz,TRA_AVOID_SN_MCQ,Participant avoids: Driving in heavy rain / snow,Behaviour,8888,13445,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SMK_EVRDL_COM.txt.gz,SMK_EVRDL_COM,Ever smoked cigarettes daily,Behaviour,10008,5217,15225
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAG_FPAS_COM.txt.gz,CAG_FPAS_COM,Flag for Providing Assistance (Past 12 Months),Behaviour,10736,13752,24488
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ENV_HMPRB_EP_MCQ.txt.gz,ENV_HMPRB_EP_MCQ,Current home has problems with electrical wiring or plumbing,Socio-economic,837,22721,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INT_WYSSCL_PRO_MCQ.txt.gz,INT_WYSSCL_PRO_MCQ,Uses social networking sites to promote one's self or one's work,Behaviour,2478,19057,21535
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ICQ_SMOKE24H_COM.txt.gz,ICQ_SMOKE24H_COM,Smoked in the last 24 hours,Behaviour,1997,22508,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ED_HSGR_COM.txt.gz,ED_HSGR_COM,Education high school graduated,Socio-economic,21864,2610,24474
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_MCR_HO_COM.txt.gz,TBI_MCR_HO_COM,Hospitalization for head injury,Health,1516,22957,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_ASSETS_NONE_MCQ.txt.gz,WEA_ASSETS_NONE_MCQ,Type of assets: None,Socio-economic,2001,21557,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_THNGS_PRES_MCQ.txt.gz,WEA_THNGS_PRES_MCQ,Lack of money prevents: Buying presents,Socio-economic,1750,21808,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_SRCE_SE_COM.txt.gz,INC_SRCE_SE_COM,Household income from self-employment,Socio-economic,5280,19225,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PKD_BAL_COM.txt.gz,PKD_BAL_COM,Balance poor,Health,3051,21349,24400
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_NONE_MCQ.txt.gz,ORH_EXP_NONE_MCQ,Oral health problems - None,Health,9959,13599,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_WKWHEZ_COM.txt.gz,CAO_WKWHEZ_COM,Woken up with an attack of wheezing - last 12 months,Health,840,23605,24445
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_TTH_MCQ.txt.gz,ORH_EXP_TTH_MCQ,Oral health problems - Toothache,Health,2921,20637,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TRIP_CH_MCQ.txt.gz,TRA_TRIP_CH_MCQ,Typical weekly trips: Church / worship service,Behaviour,5800,17758,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WLK_SMPTS_PAIN_COM.txt.gz,WLK_SMPTS_PAIN_COM,"Participant experienced hip, leg or calf pain during 4m walk",Health,1069,23278,24347
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAG_HLT_AC_COM.txt.gz,CAG_HLT_AC_COM,Provided assistance with activities,Health,5935,18570,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CR2_DEVC_BT_COM.txt.gz,CR2_DEVC_BT_COM,Used bathroom aids,Health,775,23730,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CCC_ANGI_COM.txt.gz,CCC_ANGI_COM,angina,Health,1054,23328,24382
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_WHEZ_COM.txt.gz,CAO_WHEZ_COM,Wheezing or whistling in chest - last 12 months,Health,4343,20081,24424
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_HCU_OPTO_MCQ.txt.gz,HCU_OPTO_MCQ,Contact with a ophthalmologist or optometrist in past 12 months,Health,13961,9546,23507
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_PARTPA_MCQ.txt.gz,PA2_PARTPA_MCQ,Desire to participate in more physical activities - past 12 months,Behaviour,13550,9948,23498
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TRIP_OT_MCQ.txt.gz,TRA_TRIP_OT_MCQ,Typical weekly trips: Other,Behaviour,2042,21516,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_TYP_NONE_COM.txt.gz,TBI_TYP_NONE_COM,"Head Injury cause, None",Health,16319,8154,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ROS_LOC_04_COM.txt.gz,ROS_LOC_04_COM,WHO Rose - Location of pain or discomfort: Position-04,Health,3730,19225,22955
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DSU_VITC_MCQ.txt.gz,DSU_VITC_MCQ,Took Vitamin C supplements in past month,Medications,5014,18485,23499
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PSD_DCTOFF_COM.txt.gz,PSD_DCTOFF_COM,Positive screen for PTSD,Health,1163,23296,24459
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_PSRCE_BN_COM.txt.gz,INC_PSRCE_BN_COM,Personal benefits from Canada or Quebec pension plan,Socio-economic,12336,12169,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_CMNTY_RET_MCQ.txt.gz,TRA_CMNTY_RET_MCQ,Reasons for moving to current location: Retirement / retirement plans,Behaviour,1036,22522,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TBI_MCR_ED_COM.txt.gz,TBI_MCR_ED_COM,Emergency department visit for head injury,Health,3220,21253,24473
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TYPTR_PAS_MCQ.txt.gz,TRA_TYPTR_PAS_MCQ,Form of transport used in last month: Passenger,Behaviour,17663,5895,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INJ_OCC_COM.txt.gz,INJ_OCC_COM,Serious injuries (past 12 months),Health,3602,20880,24482
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_PSRCE_WG_COM.txt.gz,INC_PSRCE_WG_COM,Personal wages and salaries,Socio-economic,10073,14432,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OSK_PAINSL_COM.txt.gz,OSK_PAINSL_COM,Pain in knee climbing down stairs or walking down slopes - past 4 weeks,Health,5553,18819,24372
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SIT_OT_MCQ.txt.gz,PA2_SIT_OT_MCQ,PASE scale: Participated in sitting activities - Other,Behaviour,1590,21950,23540
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_EXP_NTL_MCQ.txt.gz,ORH_EXP_NTL_MCQ,Oral health problems - Natural tooth loose,Health,1134,22424,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_PRVPA_MOT_MCQ.txt.gz,PA2_PRVPA_MOT_MCQ,Factor preventing participation in more physical activities - Lack of motivation,Behaviour,2726,20772,23498
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_RET_WHY_AG_COM.txt.gz,RET_WHY_AG_COM,An agreement with spouse/ partner contributed to retirement,Behaviour,2849,21565,24414
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SMK_OTREG_COM.txt.gz,SMK_OTREG_COM,Ever used other tobacco or nicotine products,Behaviour,2224,22278,24502
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_LFINS_MCQ.txt.gz,WEA_LFINS_MCQ,Have life insurance,Socio-economic,16817,6497,23314
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TRIP_RO_MCQ.txt.gz,TRA_TRIP_RO_MCQ,Typical weekly trips: Recreational trips to outdoor spaces,Behaviour,11389,12169,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_CMNTY_FAM_MCQ.txt.gz,TRA_CMNTY_FAM_MCQ,Reasons for moving to current location: Proximity to family,Behaviour,3724,19834,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_NONE_MCQ.txt.gz,TRA_AVOID_NONE_MCQ,Participant avoids: Does not avoid these situations,Behaviour,6222,16111,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_CAO_PHLEGMPY_COM.txt.gz,CAO_PHLEGMPY_COM,Bring up phlegm most days during the year,Health,1342,23110,24452
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_THNGS_REL_MCQ.txt.gz,WEA_THNGS_REL_MCQ,Lack of money prevents: Replacement/repairing broken electrical goods,Socio-economic,1015,22543,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_SVNGS_INV_MCQ.txt.gz,WEA_SVNGS_INV_MCQ,Type of saving and investments: Financial investments outside of RRSPs,Socio-economic,17169,6389,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_ORH_DENT_MCQ.txt.gz,ORH_DENT_MCQ,Wears dentures or false teeth,Health,5914,17640,23554
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_PRVPA_OT_MCQ.txt.gz,PA2_PRVPA_OT_MCQ,Factor preventing participation in more physical activities - Other,Behaviour,2428,21070,23498
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INJ_CAUS_NONE_COM.txt.gz,INJ_CAUS_NONE_COM,Injury cause Other,Health,1960,22522,24482
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_TRIP_WK_MCQ.txt.gz,TRA_TRIP_WK_MCQ,Typical weekly trips: Work commute,Behaviour,9691,13867,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_TRA_AVOID_BS_MCQ.txt.gz,TRA_AVOID_BS_MCQ,Participant avoids: Crossing or entering busy streets without traffic signals,Behaviour,2014,20319,22333
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_DEBT_CCRD_MCQ.txt.gz,WEA_DEBT_CCRD_MCQ,Type of debts: Credit or store cards,Socio-economic,4517,19041,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SPA_PREVAC_HC_COM.txt.gz,SPA_PREVAC_HC_COM,Health condition/ limitation prevented activities participation,Health,1894,22558,24452
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_OST_BCKPPM_COM.txt.gz,OST_BCKPPM_COM,Back pain past 12 months,Health,4985,19442,24427
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_MSPRT_OT_MCQ.txt.gz,PA2_MSPRT_OT_MCQ,PASE scale: Participated in other moderate sport or activity,Behaviour,834,22716,23550
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_PSRCE_OLD_COM.txt.gz,INC_PSRCE_OLD_COM,Personal old age security,Socio-economic,9148,15357,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PKD_RISE_COM.txt.gz,PKD_RISE_COM,Trouble rising from chair,Health,1640,22792,24432
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PKD_SMWRT_COM.txt.gz,PKD_SMWRT_COM,Handwriting smaller,Health,1575,22560,24135
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_ASSETS_HSE_MCQ.txt.gz,WEA_ASSETS_HSE_MCQ,"Type of assets: House, apartment, or holiday home",Socio-economic,6593,16965,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_SMK_WHLCG_COM.txt.gz,SMK_WHLCG_COM,Ever smoked a whole cigarette,Behaviour,3909,7461,11370
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_HCU_SPEC_MCQ.txt.gz,HCU_SPEC_MCQ,"Contact with a medical specialist (such as a cardiologist, gynaecologist, psychiatrist) in past 12 months",Health,11768,11750,23518
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INT_WYSSCL_FRI_MCQ.txt.gz,INT_WYSSCL_FRI_MCQ,Uses social networking sites to stay in touch or make plans with friends,Behaviour,8956,12579,21535
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_LSPRT_YOG_MCQ.txt.gz,PA2_LSPRT_YOG_MCQ,PASE scale: Participated in light sport or activity - Yoga or stretching,Behaviour,2600,20951,23551
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_PA2_SIT_BIN_MCQ.txt.gz,PA2_SIT_BIN_MCQ,"PASE scale: Participated in sitting activities - Bingo, cards or other games",Behaviour,2149,21391,23540
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_PSRCE_SE_COM.txt.gz,INC_PSRCE_SE_COM,Personal income from self-employment,Socio-economic,4037,20468,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_WEA_DEBT_LNS_MCQ.txt.gz,WEA_DEBT_LNS_MCQ,Type of debts: Loans from banks or financial institutions,Socio-economic,6904,16654,23558
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_INC_SRCE_OLD_COM.txt.gz,INC_SRCE_OLD_COM,Household old age security,Socio-economic,9889,14616,24505
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DIA_TYPE1_COM.txt.gz,DIA_TYPE1_COM,Type 1 diabetes,Health,135,20244,20379
+/mnt/WebApps/CLSA_PheWeb_r1/Pheweb_ready_summary_files/_DIA_TYPE2_COM.txt.gz,DIA_TYPE2_COM,Type 2 diabetes,Health,2130,20244,22374

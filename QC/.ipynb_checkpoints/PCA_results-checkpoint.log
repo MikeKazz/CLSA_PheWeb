@@ -1,0 +1,30 @@
+PLINK v2.00a3.6 AVX2 (14 Aug 2022)
+Options in effect:
+  --out /home/mikekaz/projects/rrg-vmooser/mikekaz/CLSA/QC/PCA_results
+  --pca 20
+  --pfile all.common_independent_snps
+
+Hostname: narval3.narval.calcul.quebec
+Working directory: /lustre06/project/6061810/mikekaz/CLSA/Regenie/Gwas/FINAL/LD_pruned
+Start time: Fri Mar  8 14:12:23 2024
+
+Random number seed: 1709925143
+257371 MiB RAM detected; reserving 128685 MiB for main workspace.
+Allocated 96513 MiB successfully, after larger attempt(s) failed.
+Using up to 64 threads (change this with --threads).
+24505 samples (0 females, 0 males, 24505 ambiguous; 24505 founders) loaded from
+all.common_independent_snps.psam.
+338706 variants loaded from all.common_independent_snps.pvar.
+Note: No phenotype data present.
+Calculating allele frequencies... done.
+Excluding 7860 variants on non-autosomes from GRM construction.
+Constructing GRM: done.
+Correcting for missingness... done.
+Excluding 7860 variants on non-autosomes from PCA.
+Extracting eigenvalues and eigenvectors... done.
+--pca: Eigenvectors written to
+/home/mikekaz/projects/rrg-vmooser/mikekaz/CLSA/QC/PCA_results.eigenvec , and
+eigenvalues written to
+/home/mikekaz/projects/rrg-vmooser/mikekaz/CLSA/QC/PCA_results.eigenval .
+
+End time: Fri Mar  8 15:36:54 2024

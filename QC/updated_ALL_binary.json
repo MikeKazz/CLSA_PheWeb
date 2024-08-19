@@ -1,0 +1,3852 @@
+[
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ALC_EVER_COM.txt.gz"
+    ],
+    "phenocode": "ALC_EVER_COM",
+    "phenostring": "Ever alcohol consumption",
+    "category": "behaviour",
+    "num_cases": 24035,
+    "num_controls": 469,
+    "num_samples": 24504
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAG_FPAS_COM.txt.gz"
+    ],
+    "phenocode": "CAG_FPAS_COM",
+    "phenostring": "Flag for Providing Assistance (Past 12 Months)",
+    "category": "behaviour",
+    "num_cases": 10736,
+    "num_controls": 13752,
+    "num_samples": 24488
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAG_HLT_AC_COM.txt.gz"
+    ],
+    "phenocode": "CAG_HLT_AC_COM",
+    "phenostring": "Provided assistance with activities",
+    "category": "health",
+    "num_cases": 5935,
+    "num_controls": 18570,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAG_HLT_CS_COM.txt.gz"
+    ],
+    "phenocode": "CAG_HLT_CS_COM",
+    "phenostring": "Provided social/ emotional assistance",
+    "category": "health",
+    "num_cases": 1331,
+    "num_controls": 23174,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAG_HLT_MD_COM.txt.gz"
+    ],
+    "phenocode": "CAG_HLT_MD_COM",
+    "phenostring": "Provided medical care",
+    "category": "health",
+    "num_cases": 2754,
+    "num_controls": 21751,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAG_HLT_MG_COM.txt.gz"
+    ],
+    "phenocode": "CAG_HLT_MG_COM",
+    "phenostring": "Provided managing care",
+    "category": "health",
+    "num_cases": 3870,
+    "num_controls": 20635,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAG_HLT_ML_COM.txt.gz"
+    ],
+    "phenocode": "CAG_HLT_ML_COM",
+    "phenostring": "Provided assistance with meal preparation",
+    "category": "health",
+    "num_cases": 4631,
+    "num_controls": 19874,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAG_HLT_NONE_COM.txt.gz"
+    ],
+    "phenocode": "CAG_HLT_NONE_COM",
+    "phenostring": "Did not provide assistance",
+    "category": "health",
+    "num_cases": 13721,
+    "num_controls": 10784,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAG_HLT_PR_COM.txt.gz"
+    ],
+    "phenocode": "CAG_HLT_PR_COM",
+    "phenostring": "Provided personal care",
+    "category": "health",
+    "num_cases": 3071,
+    "num_controls": 21434,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAG_HLT_TR_COM.txt.gz"
+    ],
+    "phenocode": "CAG_HLT_TR_COM",
+    "phenostring": "Provided assistance with transportation",
+    "category": "health",
+    "num_cases": 7994,
+    "num_controls": 16511,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_COFAM_COM.txt.gz"
+    ],
+    "phenocode": "CAO_COFAM_COM",
+    "phenostring": "Cough up phlegm in the morning",
+    "category": "health",
+    "num_cases": 1693,
+    "num_controls": 22765,
+    "num_samples": 24458
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_COFMAM_COM.txt.gz"
+    ],
+    "phenocode": "CAO_COFMAM_COM",
+    "phenostring": "Cough phlegm most mornings",
+    "category": "health",
+    "num_cases": 1126,
+    "num_controls": 23327,
+    "num_samples": 24453
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_COFPY_COM.txt.gz"
+    ],
+    "phenocode": "CAO_COFPY_COM",
+    "phenostring": "Coughed most days - last 12 months",
+    "category": "health",
+    "num_cases": 3911,
+    "num_controls": 20518,
+    "num_samples": 24429
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_COLD_COM.txt.gz"
+    ],
+    "phenocode": "CAO_COLD_COM",
+    "phenostring": "Frequent colds persisting longer than other people",
+    "category": "health",
+    "num_cases": 1281,
+    "num_controls": 23136,
+    "num_samples": 24417
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_EXERT_COM.txt.gz"
+    ],
+    "phenocode": "CAO_EXERT_COM",
+    "phenostring": "Wheeze with mild to moderate exertion",
+    "category": "health",
+    "num_cases": 1962,
+    "num_controls": 22448,
+    "num_samples": 24410
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_PHLEGMPY_COM.txt.gz"
+    ],
+    "phenocode": "CAO_PHLEGMPY_COM",
+    "phenostring": "Bring up phlegm most days during the year",
+    "category": "health",
+    "num_cases": 1342,
+    "num_controls": 23110,
+    "num_samples": 24452
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_SOBFLAT_COM.txt.gz"
+    ],
+    "phenocode": "CAO_SOBFLAT_COM",
+    "phenostring": "Short of breath walking on flat surface",
+    "category": "health",
+    "num_cases": 1735,
+    "num_controls": 22687,
+    "num_samples": 24422
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_SOBPM_COM.txt.gz"
+    ],
+    "phenocode": "CAO_SOBPM_COM",
+    "phenostring": "Shortness of breath following strenuous activity - last 12 months",
+    "category": "health",
+    "num_cases": 4412,
+    "num_controls": 19906,
+    "num_samples": 24318
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_SOBUP_COM.txt.gz"
+    ],
+    "phenocode": "CAO_SOBUP_COM",
+    "phenostring": "Short of breath climbing stairs or walking uphill",
+    "category": "health",
+    "num_cases": 6333,
+    "num_controls": 18032,
+    "num_samples": 24365
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_WHEZ_COM.txt.gz"
+    ],
+    "phenocode": "CAO_WHEZ_COM",
+    "phenostring": "Wheezing or whistling in chest - last 12 months",
+    "category": "health",
+    "num_cases": 4343,
+    "num_controls": 20081,
+    "num_samples": 24424
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_WKCOF_COM.txt.gz"
+    ],
+    "phenocode": "CAO_WKCOF_COM",
+    "phenostring": "Woken up with an attack of coughing - last 12 months",
+    "category": "health",
+    "num_cases": 4998,
+    "num_controls": 19424,
+    "num_samples": 24422
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CAO_WKWHEZ_COM.txt.gz"
+    ],
+    "phenocode": "CAO_WKWHEZ_COM",
+    "phenostring": "Woken up with an attack of wheezing - last 12 months",
+    "category": "health",
+    "num_cases": 840,
+    "num_controls": 23605,
+    "num_samples": 24445
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_ALLRG_COM.txt.gz"
+    ],
+    "phenocode": "CCC_ALLRG_COM",
+    "phenostring": "Allergies",
+    "category": "health",
+    "num_cases": 9284,
+    "num_controls": 15009,
+    "num_samples": 24293
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_AMI_COM.txt.gz"
+    ],
+    "phenocode": "CCC_AMI_COM",
+    "phenostring": "Heart attack or myocardial infarction",
+    "category": "health",
+    "num_cases": 1175,
+    "num_controls": 23234,
+    "num_samples": 24409
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_ANGI_COM.txt.gz"
+    ],
+    "phenocode": "CCC_ANGI_COM",
+    "phenostring": "angina",
+    "category": "health",
+    "num_cases": 1054,
+    "num_controls": 23328,
+    "num_samples": 24382
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_ANXI_COM.txt.gz"
+    ],
+    "phenocode": "CCC_ANXI_COM",
+    "phenostring": "Anxiety disorder",
+    "category": "health",
+    "num_cases": 2135,
+    "num_controls": 22288,
+    "num_samples": 24423
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_ARTOT_COM.txt.gz"
+    ],
+    "phenocode": "CCC_ARTOT_COM",
+    "phenostring": "Other type of arthritis",
+    "category": "health",
+    "num_cases": 2457,
+    "num_controls": 21736,
+    "num_samples": 24193
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_ASTHM_COM.txt.gz"
+    ],
+    "phenocode": "CCC_ASTHM_COM",
+    "phenostring": "Asthma",
+    "category": "health",
+    "num_cases": 3234,
+    "num_controls": 21172,
+    "num_samples": 24406
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_BCKP_COM.txt.gz"
+    ],
+    "phenocode": "CCC_BCKP_COM",
+    "phenostring": "Back problems excluding fibromyalgia and arthritis",
+    "category": "health",
+    "num_cases": 6827,
+    "num_controls": 17599,
+    "num_samples": 24426
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_CANC_COM.txt.gz"
+    ],
+    "phenocode": "CCC_CANC_COM",
+    "phenostring": "Cancer",
+    "category": "health",
+    "num_cases": 3714,
+    "num_controls": 20728,
+    "num_samples": 24442
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_CANTP_SNM_COM.txt.gz"
+    ],
+    "phenocode": "CCC_CANTP_SNM_COM",
+    "phenostring": "Skin cancer: non-melanoma",
+    "category": "health",
+    "num_cases": 884,
+    "num_controls": 23558,
+    "num_samples": 24442
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_COPD_COM.txt.gz"
+    ],
+    "phenocode": "CCC_COPD_COM",
+    "phenostring": "Emphysema, chronic bronchitis, COPD, or chronic changes in lungs due to smoking",
+    "category": "health",
+    "num_cases": 1413,
+    "num_controls": 22970,
+    "num_samples": 24383
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_DRFLU_COM.txt.gz"
+    ],
+    "phenocode": "CCC_DRFLU_COM",
+    "phenostring": "Flu (Influenza) - past year",
+    "category": "health",
+    "num_cases": 1527,
+    "num_controls": 22906,
+    "num_samples": 24433
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_DRUTI_COM.txt.gz"
+    ],
+    "phenocode": "CCC_DRUTI_COM",
+    "phenostring": "Urinary Tract Infection - past year",
+    "category": "health",
+    "num_cases": 1747,
+    "num_controls": 22692,
+    "num_samples": 24439
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_F1_COM.txt.gz"
+    ],
+    "phenocode": "CCC_F1_COM",
+    "phenostring": "Reported having a Chronic Condition (includes \"other\" chronic conditions)",
+    "category": "health",
+    "num_cases": 22936,
+    "num_controls": 1434,
+    "num_samples": 24370
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_F2_COM.txt.gz"
+    ],
+    "phenocode": "CCC_F2_COM",
+    "phenostring": "Reported having a Chronic Condition (excludes \"other\" chronic conditions)",
+    "category": "health",
+    "num_cases": 22529,
+    "num_controls": 1810,
+    "num_samples": 24339
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_HBP_COM.txt.gz"
+    ],
+    "phenocode": "CCC_HBP_COM",
+    "phenostring": "High blood pressure or hypertension",
+    "category": "health",
+    "num_cases": 8999,
+    "num_controls": 15376,
+    "num_samples": 24375
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_HEART_COM.txt.gz"
+    ],
+    "phenocode": "CCC_HEART_COM",
+    "phenostring": "Heart disease (including congestive heart failure, or CHF)",
+    "category": "health",
+    "num_cases": 2833,
+    "num_controls": 21539,
+    "num_samples": 24372
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_IBDIBS_COM.txt.gz"
+    ],
+    "phenocode": "CCC_IBDIBS_COM",
+    "phenostring": "Bowel disorder",
+    "category": "health",
+    "num_cases": 2371,
+    "num_controls": 22042,
+    "num_samples": 24413
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_MACDEG_COM.txt.gz"
+    ],
+    "phenocode": "CCC_MACDEG_COM",
+    "phenostring": "Macular degeneration",
+    "category": "health",
+    "num_cases": 1035,
+    "num_controls": 23329,
+    "num_samples": 24364
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_MGRN_COM.txt.gz"
+    ],
+    "phenocode": "CCC_MGRN_COM",
+    "phenostring": "Migraine headaches",
+    "category": "health",
+    "num_cases": 3191,
+    "num_controls": 21243,
+    "num_samples": 24434
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_MOOD_COM.txt.gz"
+    ],
+    "phenocode": "CCC_MOOD_COM",
+    "phenostring": "Mood disorder",
+    "category": "health",
+    "num_cases": 4208,
+    "num_controls": 20224,
+    "num_samples": 24432
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_OAHAND_COM.txt.gz"
+    ],
+    "phenocode": "CCC_OAHAND_COM",
+    "phenostring": "Osteoarthritis in one or both hands",
+    "category": "health",
+    "num_cases": 3164,
+    "num_controls": 21103,
+    "num_samples": 24267
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_OAHIP_COM.txt.gz"
+    ],
+    "phenocode": "CCC_OAHIP_COM",
+    "phenostring": "Osteoarthritis in the hip",
+    "category": "health",
+    "num_cases": 2048,
+    "num_controls": 22197,
+    "num_samples": 24245
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_OAKNEE_COM.txt.gz"
+    ],
+    "phenocode": "CCC_OAKNEE_COM",
+    "phenostring": "Osteoarthritis in the knee",
+    "category": "health",
+    "num_cases": 3689,
+    "num_controls": 20528,
+    "num_samples": 24217
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_OSTPO_COM.txt.gz"
+    ],
+    "phenocode": "CCC_OSTPO_COM",
+    "phenostring": "Osteoporosis",
+    "category": "health",
+    "num_cases": 2120,
+    "num_controls": 22185,
+    "num_samples": 24305
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_PVD_COM.txt.gz"
+    ],
+    "phenocode": "CCC_PVD_COM",
+    "phenostring": "Peripheral vascular disease or poor circulation in limbs",
+    "category": "health",
+    "num_cases": 1285,
+    "num_controls": 23096,
+    "num_samples": 24381
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_ULCR_COM.txt.gz"
+    ],
+    "phenocode": "CCC_ULCR_COM",
+    "phenostring": "Intestinal or stomach ulcers",
+    "category": "health",
+    "num_cases": 1813,
+    "num_controls": 22587,
+    "num_samples": 24400
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_URIINC_COM.txt.gz"
+    ],
+    "phenocode": "CCC_URIINC_COM",
+    "phenostring": "Urinary incontinence",
+    "category": "health",
+    "num_cases": 2043,
+    "num_controls": 22401,
+    "num_samples": 24444
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CCC_UTHYR_COM.txt.gz"
+    ],
+    "phenocode": "CCC_UTHYR_COM",
+    "phenostring": "UNDER-active thyroid gland",
+    "category": "health",
+    "num_cases": 3210,
+    "num_controls": 21002,
+    "num_samples": 24212
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR1_FRHC_COM.txt.gz"
+    ],
+    "phenocode": "CR1_FRHC_COM",
+    "phenostring": "Flag for Receiving Formal Home Care Services (Last 12 Months)",
+    "category": "behaviour",
+    "num_cases": 1100,
+    "num_controls": 23392,
+    "num_samples": 24492
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR1_PRO_AC_COM.txt.gz"
+    ],
+    "phenocode": "CR1_PRO_AC_COM",
+    "phenostring": "Received professional assistance with activities",
+    "category": "health",
+    "num_cases": 746,
+    "num_controls": 23759,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR1_PRO_NONE_COM.txt.gz"
+    ],
+    "phenocode": "CR1_PRO_NONE_COM",
+    "phenostring": "Did not require professional assistance",
+    "category": "health",
+    "num_cases": 23392,
+    "num_controls": 1113,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR2_DEVC_BR_COM.txt.gz"
+    ],
+    "phenocode": "CR2_DEVC_BR_COM",
+    "phenostring": "Used grab bars",
+    "category": "health",
+    "num_cases": 1566,
+    "num_controls": 22939,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR2_DEVC_BT_COM.txt.gz"
+    ],
+    "phenocode": "CR2_DEVC_BT_COM",
+    "phenostring": "Used bathroom aids",
+    "category": "health",
+    "num_cases": 775,
+    "num_controls": 23730,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR2_DEVC_CN_COM.txt.gz"
+    ],
+    "phenocode": "CR2_DEVC_CN_COM",
+    "phenostring": "Used a  cane or walking stick",
+    "category": "health",
+    "num_cases": 1987,
+    "num_controls": 22518,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR2_DEVC_NONE_COM.txt.gz"
+    ],
+    "phenocode": "CR2_DEVC_NONE_COM",
+    "phenostring": "Did not use any assistive devices",
+    "category": "health",
+    "num_cases": 20030,
+    "num_controls": 4475,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR2_FAM_AC_COM.txt.gz"
+    ],
+    "phenocode": "CR2_FAM_AC_COM",
+    "phenostring": "Received non-professional assistance with activities",
+    "category": "health",
+    "num_cases": 1829,
+    "num_controls": 22676,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR2_FAM_ML_COM.txt.gz"
+    ],
+    "phenocode": "CR2_FAM_ML_COM",
+    "phenostring": "Received non-professional assistance with meal preparation",
+    "category": "health",
+    "num_cases": 1176,
+    "num_controls": 23329,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR2_FAM_NONE_COM.txt.gz"
+    ],
+    "phenocode": "CR2_FAM_NONE_COM",
+    "phenostring": "Did not require non-professional assistance",
+    "category": "health",
+    "num_cases": 21869,
+    "num_controls": 2636,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR2_FAM_TR_COM.txt.gz"
+    ],
+    "phenocode": "CR2_FAM_TR_COM",
+    "phenostring": "Received non-professional assistance with transportation",
+    "category": "health",
+    "num_cases": 1616,
+    "num_controls": 22889,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_CR2_FRHC_COM.txt.gz"
+    ],
+    "phenocode": "CR2_FRHC_COM",
+    "phenostring": "Flag for Receiving Informal Home Care (Last 12 Months)",
+    "category": "behaviour",
+    "num_cases": 2626,
+    "num_controls": 21869,
+    "num_samples": 24495
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_DEP_DPSFD_COM.txt.gz"
+    ],
+    "phenocode": "DEP_DPSFD_COM",
+    "phenostring": "CES-D 10: Screen for depression result",
+    "category": "health",
+    "num_cases": 3717,
+    "num_controls": 20709,
+    "num_samples": 24426
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_DIA_DIAB_COM.txt.gz"
+    ],
+    "phenocode": "DIA_DIAB_COM",
+    "phenostring": "Diabetes, borderline diabetes or blood sugar is high",
+    "category": "health",
+    "num_cases": 4191,
+    "num_controls": 20244,
+    "num_samples": 24435
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_DIA_TYPE1_COM.txt.gz"
+    ],
+    "phenocode": "DIA_TYPE1_COM",
+    "phenostring": "Type 1 diabetes",
+    "category": "health",
+    "num_cases": 135,
+    "num_controls": 20244,
+    "num_samples": 20379
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_DIA_TYPE2_COM.txt.gz"
+    ],
+    "phenocode": "DIA_TYPE2_COM",
+    "phenostring": "Type 2 diabetes",
+    "category": "health",
+    "num_cases": 2130,
+    "num_controls": 20244,
+    "num_samples": 22374
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_DPR_CLINDEP_COM.txt.gz"
+    ],
+    "phenocode": "DPR_CLINDEP_COM",
+    "phenostring": "Clinical depression",
+    "category": "health",
+    "num_cases": 4046,
+    "num_controls": 20357,
+    "num_samples": 24403
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_DSU_CAL_MCQ.txt.gz"
+    ],
+    "phenocode": "DSU_CAL_MCQ",
+    "phenostring": "Took calcium supplements in past month",
+    "category": "medications",
+    "num_cases": 6702,
+    "num_controls": 16807,
+    "num_samples": 23509
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_DSU_IRON_MCQ.txt.gz"
+    ],
+    "phenocode": "DSU_IRON_MCQ",
+    "phenostring": "Took iron supplements in past month",
+    "category": "medications",
+    "num_cases": 1332,
+    "num_controls": 22164,
+    "num_samples": 23496
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_DSU_MLTV_MCQ.txt.gz"
+    ],
+    "phenocode": "DSU_MLTV_MCQ",
+    "phenostring": "Took multivitamin supplements in past month",
+    "category": "medications",
+    "num_cases": 7689,
+    "num_controls": 15834,
+    "num_samples": 23523
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_DSU_VITB12_MCQ.txt.gz"
+    ],
+    "phenocode": "DSU_VITB12_MCQ",
+    "phenostring": "Took vitamin B12 supplements in past month",
+    "category": "medications",
+    "num_cases": 4112,
+    "num_controls": 19367,
+    "num_samples": 23479
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_DSU_VITC_MCQ.txt.gz"
+    ],
+    "phenocode": "DSU_VITC_MCQ",
+    "phenostring": "Took Vitamin C supplements in past month",
+    "category": "medications",
+    "num_cases": 5014,
+    "num_controls": 18485,
+    "num_samples": 23499
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_DSU_VITD_MCQ.txt.gz"
+    ],
+    "phenocode": "DSU_VITD_MCQ",
+    "phenostring": "Took vitamin D supplements in past month",
+    "category": "medications",
+    "num_cases": 11545,
+    "num_controls": 11960,
+    "num_samples": 23505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ED_HSGR_COM.txt.gz"
+    ],
+    "phenocode": "ED_HSGR_COM",
+    "phenostring": "Education high school graduated",
+    "category": "socio-economic",
+    "num_cases": 21864,
+    "num_controls": 2610,
+    "num_samples": 24474
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ED_OTED_COM.txt.gz"
+    ],
+    "phenocode": "ED_OTED_COM",
+    "phenostring": "Education other degree",
+    "category": "socio-economic",
+    "num_cases": 20790,
+    "num_controls": 3709,
+    "num_samples": 24499
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ENV_HMPRB_EP_MCQ.txt.gz"
+    ],
+    "phenocode": "ENV_HMPRB_EP_MCQ",
+    "phenostring": "Current home has problems with electrical wiring or plumbing",
+    "category": "socio-economic",
+    "num_cases": 837,
+    "num_controls": 22721,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ENV_HMPRB_INF_MCQ.txt.gz"
+    ],
+    "phenocode": "ENV_HMPRB_INF_MCQ",
+    "phenostring": "Current home has problems with infestations",
+    "category": "socio-economic",
+    "num_cases": 831,
+    "num_controls": 22727,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ENV_HMPRB_LEA_MCQ.txt.gz"
+    ],
+    "phenocode": "ENV_HMPRB_LEA_MCQ",
+    "phenostring": "Current home has problems with leaking",
+    "category": "socio-economic",
+    "num_cases": 1007,
+    "num_controls": 22551,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ENV_HMPRB_MAI_MCQ.txt.gz"
+    ],
+    "phenocode": "ENV_HMPRB_MAI_MCQ",
+    "phenostring": "Current home has problems with maintenance or repairs",
+    "category": "socio-economic",
+    "num_cases": 1277,
+    "num_controls": 22281,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ENV_HMPRB_NOI_MCQ.txt.gz"
+    ],
+    "phenocode": "ENV_HMPRB_NOI_MCQ",
+    "phenostring": "Current home has problems with noise",
+    "category": "socio-economic",
+    "num_cases": 1621,
+    "num_controls": 21937,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ENV_HMPRB_NONE_MCQ.txt.gz"
+    ],
+    "phenocode": "ENV_HMPRB_NONE_MCQ",
+    "phenostring": "Current home has no problems",
+    "category": "socio-economic",
+    "num_cases": 18747,
+    "num_controls": 4811,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_FAL_12MN_MCQ.txt.gz"
+    ],
+    "phenocode": "FAL_12MN_MCQ",
+    "phenostring": "Falls in the last 12 months",
+    "category": "health",
+    "num_cases": 2566,
+    "num_controls": 20980,
+    "num_samples": 23546
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_FAS_COMP_A_COM.txt.gz"
+    ],
+    "phenocode": "FAS_COMP_A_COM",
+    "phenostring": "Completed reciting A words",
+    "category": "behaviour",
+    "num_cases": 24357,
+    "num_controls": 80,
+    "num_samples": 24437
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_FAS_COMP_F_COM.txt.gz"
+    ],
+    "phenocode": "FAS_COMP_F_COM",
+    "phenostring": "Completed reciting F words",
+    "category": "behaviour",
+    "num_cases": 24390,
+    "num_controls": 47,
+    "num_samples": 24437
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_FAS_COMP_S_COM.txt.gz"
+    ],
+    "phenocode": "FAS_COMP_S_COM",
+    "phenostring": "Completed reciting S words",
+    "category": "behaviour",
+    "num_cases": 24324,
+    "num_controls": 113,
+    "num_samples": 24437
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_HBP_TRT_COM.txt.gz"
+    ],
+    "phenocode": "HBP_TRT_COM",
+    "phenostring": "Non-pharmacological treatments to lower high blood pressure",
+    "category": "behaviour",
+    "num_cases": 6002,
+    "num_controls": 18368,
+    "num_samples": 24370
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_HCU_DEN_MCQ.txt.gz"
+    ],
+    "phenocode": "HCU_DEN_MCQ",
+    "phenostring": "Contact with a dentist in past 12 months",
+    "category": "health",
+    "num_cases": 19532,
+    "num_controls": 4010,
+    "num_samples": 23542
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_HCU_EMEREG_MCQ.txt.gz"
+    ],
+    "phenocode": "HCU_EMEREG_MCQ",
+    "phenostring": "Seen in an Emergency Department in past 12 months",
+    "category": "health",
+    "num_cases": 4454,
+    "num_controls": 19068,
+    "num_samples": 23522
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_HCU_FAMPHY_MCQ.txt.gz"
+    ],
+    "phenocode": "HCU_FAMPHY_MCQ",
+    "phenostring": "Contact with a general practitioner, family physician in past 12 months",
+    "category": "health",
+    "num_cases": 21225,
+    "num_controls": 2301,
+    "num_samples": 23526
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_HCU_HLOVRNT_MCQ.txt.gz"
+    ],
+    "phenocode": "HCU_HLOVRNT_MCQ",
+    "phenostring": "Patient in a hospital overnight  in past 12 months",
+    "category": "health",
+    "num_cases": 1903,
+    "num_controls": 21645,
+    "num_samples": 23548
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_HCU_OPTO_MCQ.txt.gz"
+    ],
+    "phenocode": "HCU_OPTO_MCQ",
+    "phenostring": "Contact with a ophthalmologist or optometrist in past 12 months",
+    "category": "health",
+    "num_cases": 13961,
+    "num_controls": 9546,
+    "num_samples": 23507
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_HCU_PHYSIO_MCQ.txt.gz"
+    ],
+    "phenocode": "HCU_PHYSIO_MCQ",
+    "phenostring": "Contact with a physiotherapist, occupational therapist, or chiropractor in past 12 months",
+    "category": "health",
+    "num_cases": 8230,
+    "num_controls": 15297,
+    "num_samples": 23527
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_HCU_PSYCH_MCQ.txt.gz"
+    ],
+    "phenocode": "HCU_PSYCH_MCQ",
+    "phenostring": "Contact with a psychologist in past 12 months",
+    "category": "health",
+    "num_cases": 1167,
+    "num_controls": 22364,
+    "num_samples": 23531
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_HCU_SPEC_MCQ.txt.gz"
+    ],
+    "phenocode": "HCU_SPEC_MCQ",
+    "phenostring": "Contact with a medical specialist (such as a cardiologist, gynaecologist, psychiatrist) in past 12 months",
+    "category": "health",
+    "num_cases": 11768,
+    "num_controls": 11750,
+    "num_samples": 23518
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_HRG_USE_AID_COM.txt.gz"
+    ],
+    "phenocode": "HRG_USE_AID_COM",
+    "phenostring": "Uses Hearing aid",
+    "category": "health",
+    "num_cases": 1296,
+    "num_controls": 23207,
+    "num_samples": 24503
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_HUP_FREE_MCQ.txt.gz"
+    ],
+    "phenocode": "HUP_FREE_MCQ",
+    "phenostring": "Usually free of pain and discomfort",
+    "category": "health",
+    "num_cases": 14946,
+    "num_controls": 8586,
+    "num_samples": 23532
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ICQ_FXCOLLR_COM.txt.gz"
+    ],
+    "phenocode": "ICQ_FXCOLLR_COM",
+    "phenostring": "Broken or fractured collar bone",
+    "category": "health",
+    "num_cases": 1298,
+    "num_controls": 23194,
+    "num_samples": 24492
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ICQ_FXNOSE_COM.txt.gz"
+    ],
+    "phenocode": "ICQ_FXNOSE_COM",
+    "phenostring": "Broken or fractured nose",
+    "category": "health",
+    "num_cases": 1158,
+    "num_controls": 23338,
+    "num_samples": 24496
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ICQ_SMOKE24H_COM.txt.gz"
+    ],
+    "phenocode": "ICQ_SMOKE24H_COM",
+    "phenostring": "Smoked in the last 24 hours",
+    "category": "behaviour",
+    "num_cases": 1997,
+    "num_controls": 22508,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_IHD_ANGIO_COM.txt.gz"
+    ],
+    "phenocode": "IHD_ANGIO_COM",
+    "phenostring": "Angiogram",
+    "category": "health",
+    "num_cases": 2148,
+    "num_controls": 20565,
+    "num_samples": 22713
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_IHD_CAB_COM.txt.gz"
+    ],
+    "phenocode": "IHD_CAB_COM",
+    "phenostring": "Coronary artery bypass surgery",
+    "category": "health",
+    "num_cases": 1453,
+    "num_controls": 22996,
+    "num_samples": 24449
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_PSRCE_BN_COM.txt.gz"
+    ],
+    "phenocode": "INC_PSRCE_BN_COM",
+    "phenostring": "Personal benefits from Canada or Quebec pension plan",
+    "category": "socio-economic",
+    "num_cases": 12336,
+    "num_controls": 12169,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_PSRCE_CP_COM.txt.gz"
+    ],
+    "phenocode": "INC_PSRCE_CP_COM",
+    "phenostring": "Personal capital gains",
+    "category": "socio-economic",
+    "num_cases": 2269,
+    "num_controls": 22236,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_PSRCE_GV_COM.txt.gz"
+    ],
+    "phenocode": "INC_PSRCE_GV_COM",
+    "phenostring": "Personal RRSP/ RRIF",
+    "category": "socio-economic",
+    "num_cases": 5388,
+    "num_controls": 19117,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_PSRCE_IN_COM.txt.gz"
+    ],
+    "phenocode": "INC_PSRCE_IN_COM",
+    "phenostring": "Personal dividends and interest",
+    "category": "socio-economic",
+    "num_cases": 7338,
+    "num_controls": 17167,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_PSRCE_OLD_COM.txt.gz"
+    ],
+    "phenocode": "INC_PSRCE_OLD_COM",
+    "phenostring": "Personal old age security",
+    "category": "socio-economic",
+    "num_cases": 9148,
+    "num_controls": 15357,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_PSRCE_PN_COM.txt.gz"
+    ],
+    "phenocode": "INC_PSRCE_PN_COM",
+    "phenostring": "Personal job related pensions",
+    "category": "socio-economic",
+    "num_cases": 9015,
+    "num_controls": 15490,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_PSRCE_SE_COM.txt.gz"
+    ],
+    "phenocode": "INC_PSRCE_SE_COM",
+    "phenostring": "Personal income from self-employment",
+    "category": "socio-economic",
+    "num_cases": 4037,
+    "num_controls": 20468,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_PSRCE_WG_COM.txt.gz"
+    ],
+    "phenocode": "INC_PSRCE_WG_COM",
+    "phenostring": "Personal wages and salaries",
+    "category": "socio-economic",
+    "num_cases": 10073,
+    "num_controls": 14432,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_SRCE_BN_COM.txt.gz"
+    ],
+    "phenocode": "INC_SRCE_BN_COM",
+    "phenostring": "Household benefits from Canada or Quebec pension plan",
+    "category": "socio-economic",
+    "num_cases": 13199,
+    "num_controls": 11306,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_SRCE_CH_COM.txt.gz"
+    ],
+    "phenocode": "INC_SRCE_CH_COM",
+    "phenostring": "Household child tax benefit",
+    "category": "socio-economic",
+    "num_cases": 951,
+    "num_controls": 23554,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_SRCE_CP_COM.txt.gz"
+    ],
+    "phenocode": "INC_SRCE_CP_COM",
+    "phenostring": "Household capital gains",
+    "category": "socio-economic",
+    "num_cases": 2755,
+    "num_controls": 21750,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_SRCE_GIS_COM.txt.gz"
+    ],
+    "phenocode": "INC_SRCE_GIS_COM",
+    "phenostring": "Household guaranteed income supplement",
+    "category": "socio-economic",
+    "num_cases": 813,
+    "num_controls": 23692,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_SRCE_GV_COM.txt.gz"
+    ],
+    "phenocode": "INC_SRCE_GV_COM",
+    "phenostring": "Household RRSP/ RRIF",
+    "category": "socio-economic",
+    "num_cases": 6172,
+    "num_controls": 18333,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_SRCE_IN_COM.txt.gz"
+    ],
+    "phenocode": "INC_SRCE_IN_COM",
+    "phenostring": "Household dividends and interest",
+    "category": "socio-economic",
+    "num_cases": 8499,
+    "num_controls": 16006,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_SRCE_OLD_COM.txt.gz"
+    ],
+    "phenocode": "INC_SRCE_OLD_COM",
+    "phenostring": "Household old age security",
+    "category": "socio-economic",
+    "num_cases": 9889,
+    "num_controls": 14616,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_SRCE_PN_COM.txt.gz"
+    ],
+    "phenocode": "INC_SRCE_PN_COM",
+    "phenostring": "Household job related pensions",
+    "category": "socio-economic",
+    "num_cases": 10814,
+    "num_controls": 13691,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_SRCE_SE_COM.txt.gz"
+    ],
+    "phenocode": "INC_SRCE_SE_COM",
+    "phenostring": "Household income from self-employment",
+    "category": "socio-economic",
+    "num_cases": 5280,
+    "num_controls": 19225,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INC_SRCE_WG_COM.txt.gz"
+    ],
+    "phenocode": "INC_SRCE_WG_COM",
+    "phenostring": "Household wages and salaries",
+    "category": "socio-economic",
+    "num_cases": 12720,
+    "num_controls": 11785,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INJ_CAUS_FL_COM.txt.gz"
+    ],
+    "phenocode": "INJ_CAUS_FL_COM",
+    "phenostring": "Injury caused by a fall",
+    "category": "health",
+    "num_cases": 1257,
+    "num_controls": 23225,
+    "num_samples": 24482
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INJ_CAUS_NONE_COM.txt.gz"
+    ],
+    "phenocode": "INJ_CAUS_NONE_COM",
+    "phenostring": "Injury cause Other",
+    "category": "health",
+    "num_cases": 1960,
+    "num_controls": 22522,
+    "num_samples": 24482
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INJ_OCC_COM.txt.gz"
+    ],
+    "phenocode": "INJ_OCC_COM",
+    "phenostring": "Serious injuries (past 12 months)",
+    "category": "health",
+    "num_cases": 3602,
+    "num_controls": 20880,
+    "num_samples": 24482
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INT_ACCESSHM_MCQ.txt.gz"
+    ],
+    "phenocode": "INT_ACCESSHM_MCQ",
+    "phenostring": "Access to internet or email at home",
+    "category": "socio-economic",
+    "num_cases": 21993,
+    "num_controls": 1532,
+    "num_samples": 23525
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INT_SCLNTWRK_MCQ.txt.gz"
+    ],
+    "phenocode": "INT_SCLNTWRK_MCQ",
+    "phenostring": "Uses social networking sites",
+    "category": "behaviour",
+    "num_cases": 11730,
+    "num_controls": 9805,
+    "num_samples": 21535
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INT_WYSSCL_FAM_MCQ.txt.gz"
+    ],
+    "phenocode": "INT_WYSSCL_FAM_MCQ",
+    "phenostring": "Uses social networking sites to stay in touch or make plans with family",
+    "category": "behaviour",
+    "num_cases": 8800,
+    "num_controls": 12735,
+    "num_samples": 21535
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INT_WYSSCL_FRI_MCQ.txt.gz"
+    ],
+    "phenocode": "INT_WYSSCL_FRI_MCQ",
+    "phenostring": "Uses social networking sites to stay in touch or make plans with friends",
+    "category": "behaviour",
+    "num_cases": 8956,
+    "num_controls": 12579,
+    "num_samples": 21535
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INT_WYSSCL_OT_MCQ.txt.gz"
+    ],
+    "phenocode": "INT_WYSSCL_OT_MCQ",
+    "phenostring": "Ways use social networking sites - other",
+    "category": "behaviour",
+    "num_cases": 1451,
+    "num_controls": 20084,
+    "num_samples": 21535
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_INT_WYSSCL_PRO_MCQ.txt.gz"
+    ],
+    "phenocode": "INT_WYSSCL_PRO_MCQ",
+    "phenostring": "Uses social networking sites to promote one's self or one's work",
+    "category": "behaviour",
+    "num_cases": 2478,
+    "num_controls": 19057,
+    "num_samples": 21535
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_LBF_CURR_COM.txt.gz"
+    ],
+    "phenocode": "LBF_CURR_COM",
+    "phenostring": "Currently working",
+    "category": "socio-economic",
+    "num_cases": 9546,
+    "num_controls": 1144,
+    "num_samples": 10690
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_LBF_EVER_COM.txt.gz"
+    ],
+    "phenocode": "LBF_EVER_COM",
+    "phenostring": "Ever worked",
+    "category": "socio-economic",
+    "num_cases": 10633,
+    "num_controls": 59,
+    "num_samples": 10692
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_LBF_LGEVER_COM.txt.gz"
+    ],
+    "phenocode": "LBF_LGEVER_COM",
+    "phenostring": "Longest period in the same job",
+    "category": "socio-economic",
+    "num_cases": 6498,
+    "num_controls": 3039,
+    "num_samples": 9537
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_LBF_MANY_COM.txt.gz"
+    ],
+    "phenocode": "LBF_MANY_COM",
+    "phenostring": "Currently working more than one job/ business",
+    "category": "socio-economic",
+    "num_cases": 1765,
+    "num_controls": 8683,
+    "num_samples": 10448
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_LFP_LNGST_COM.txt.gz"
+    ],
+    "phenocode": "LFP_LNGST_COM",
+    "phenostring": "Longest job",
+    "category": "socio-economic",
+    "num_cases": 10040,
+    "num_controls": 3654,
+    "num_samples": 13694
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_NUR_CKMEALS_MCQ.txt.gz"
+    ],
+    "phenocode": "NUR_CKMEALS_MCQ",
+    "phenostring": "SCREEN II-AB: Cook own meals",
+    "category": "behaviour",
+    "num_cases": 17767,
+    "num_controls": 5725,
+    "num_samples": 23492
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_NUR_DHNR_MCQ.txt.gz"
+    ],
+    "phenocode": "NUR_DHNR_MCQ",
+    "phenostring": "High Nutritional Risk Indicator",
+    "category": "behaviour",
+    "num_cases": 8131,
+    "num_controls": 15193,
+    "num_samples": 23324
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OAR_MED_COM.txt.gz"
+    ],
+    "phenocode": "OAR_MED_COM",
+    "phenostring": "Currently taking medication for arthritis",
+    "category": "medications",
+    "num_cases": 822,
+    "num_controls": 22661,
+    "num_samples": 23483
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_DENT_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_DENT_MCQ",
+    "phenostring": "Wears dentures or false teeth",
+    "category": "health",
+    "num_cases": 5914,
+    "num_controls": 17640,
+    "num_samples": 23554
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_BB_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_BB_MCQ",
+    "phenostring": "Oral health problems - Bad breath",
+    "category": "health",
+    "num_cases": 1674,
+    "num_controls": 21884,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_CHW_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_CHW_MCQ",
+    "phenostring": "Oral health problems - Cannot chew adequately",
+    "category": "health",
+    "num_cases": 1882,
+    "num_controls": 21676,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_DNL_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_DNL_MCQ",
+    "phenostring": "Oral health problems - Dentures loose/don't fit",
+    "category": "health",
+    "num_cases": 855,
+    "num_controls": 22703,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_DNU_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_DNU_MCQ",
+    "phenostring": "Oral health problems - Dentures uncomfortable",
+    "category": "health",
+    "num_cases": 807,
+    "num_controls": 22751,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_DRM_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_DRM_MCQ",
+    "phenostring": "Oral health problems - Dry mouth",
+    "category": "health",
+    "num_cases": 4210,
+    "num_controls": 19348,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_GUMB_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_GUMB_MCQ",
+    "phenostring": "Oral health problems - Gums around natural teeth bleed",
+    "category": "health",
+    "num_cases": 2613,
+    "num_controls": 20945,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_GUMS_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_GUMS_MCQ",
+    "phenostring": "Oral health problems - Gums around natural teeth are sore",
+    "category": "health",
+    "num_cases": 1823,
+    "num_controls": 21735,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_JJP_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_JJP_MCQ",
+    "phenostring": "Oral health problems - Jaw joints painful",
+    "category": "health",
+    "num_cases": 1370,
+    "num_controls": 22188,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_JWS_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_JWS_MCQ",
+    "phenostring": "Oral health problems - Jaw muscles sore",
+    "category": "health",
+    "num_cases": 1257,
+    "num_controls": 22301,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_NONE_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_NONE_MCQ",
+    "phenostring": "Oral health problems - None",
+    "category": "health",
+    "num_cases": 9959,
+    "num_controls": 13599,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_NTB_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_NTB_MCQ",
+    "phenostring": "Oral health problems - Natural tooth broken",
+    "category": "health",
+    "num_cases": 2560,
+    "num_controls": 20998,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_NTD_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_NTD_MCQ",
+    "phenostring": "Oral health problems - Natural tooth decayed",
+    "category": "health",
+    "num_cases": 3396,
+    "num_controls": 20162,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_NTL_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_NTL_MCQ",
+    "phenostring": "Oral health problems - Natural tooth loose",
+    "category": "health",
+    "num_cases": 1134,
+    "num_controls": 22424,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_OT_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_OT_MCQ",
+    "phenostring": "Oral health problems - Other",
+    "category": "health",
+    "num_cases": 868,
+    "num_controls": 22690,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_SWL_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_SWL_MCQ",
+    "phenostring": "Oral health problems - Swelling in your mouth",
+    "category": "health",
+    "num_cases": 1074,
+    "num_controls": 22484,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_EXP_TTH_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_EXP_TTH_MCQ",
+    "phenostring": "Oral health problems - Toothache",
+    "category": "health",
+    "num_cases": 2921,
+    "num_controls": 20637,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ORH_TEETH_MCQ.txt.gz"
+    ],
+    "phenocode": "ORH_TEETH_MCQ",
+    "phenostring": "Has one or more of original teeth",
+    "category": "health",
+    "num_cases": 22019,
+    "num_controls": 1538,
+    "num_samples": 23557
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSA_LGJNT_COM.txt.gz"
+    ],
+    "phenocode": "OSA_LGJNT_COM",
+    "phenostring": "Enlargement small joints close to the fingernails",
+    "category": "health",
+    "num_cases": 5065,
+    "num_controls": 19372,
+    "num_samples": 24437
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSA_LGTMB_COM.txt.gz"
+    ],
+    "phenocode": "OSA_LGTMB_COM",
+    "phenostring": "Enlargement in base of thumbs",
+    "category": "health",
+    "num_cases": 2060,
+    "num_controls": 22352,
+    "num_samples": 24412
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSA_NBFNG_COM.txt.gz"
+    ],
+    "phenocode": "OSA_NBFNG_COM",
+    "phenostring": "Number of fingers with enlarged small joints",
+    "category": "measurements",
+    "num_cases": 3484,
+    "num_controls": 20948,
+    "num_samples": 24432
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSA_PAINJNT_COM.txt.gz"
+    ],
+    "phenocode": "OSA_PAINJNT_COM",
+    "phenostring": "Pain most days in small joints close to fingernails - past 4 weeks",
+    "category": "health",
+    "num_cases": 1951,
+    "num_controls": 22498,
+    "num_samples": 24449
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSA_PAINTMB_COM.txt.gz"
+    ],
+    "phenocode": "OSA_PAINTMB_COM",
+    "phenostring": "Pain most days in base of thumbs - past 4 weeks",
+    "category": "health",
+    "num_cases": 2449,
+    "num_controls": 22001,
+    "num_samples": 24450
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSH_LOM_COM.txt.gz"
+    ],
+    "phenocode": "OSH_LOM_COM",
+    "phenostring": "Range of motion of  hips limitation - past 4 weeks",
+    "category": "health",
+    "num_cases": 2354,
+    "num_controls": 22069,
+    "num_samples": 24423
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSH_PAIN_COM.txt.gz"
+    ],
+    "phenocode": "OSH_PAIN_COM",
+    "phenostring": "Pain in groin or upper inner thigh - past 4 weeks",
+    "category": "health",
+    "num_cases": 1298,
+    "num_controls": 23155,
+    "num_samples": 24453
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSH_PAINSL_COM.txt.gz"
+    ],
+    "phenocode": "OSH_PAINSL_COM",
+    "phenostring": "Pain in groin or upper inner thigh climbing down stairs or walking down slopes - past 4 weeks",
+    "category": "health",
+    "num_cases": 992,
+    "num_controls": 23402,
+    "num_samples": 24394
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSK_KNERPL_COM.txt.gz"
+    ],
+    "phenocode": "OSK_KNERPL_COM",
+    "phenostring": "Knee replacement operation",
+    "category": "health",
+    "num_cases": 829,
+    "num_controls": 23631,
+    "num_samples": 24460
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSK_PAIN_COM.txt.gz"
+    ],
+    "phenocode": "OSK_PAIN_COM",
+    "phenostring": "Knee pain - past 4 weeks",
+    "category": "health",
+    "num_cases": 4578,
+    "num_controls": 19864,
+    "num_samples": 24442
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSK_PAINSL_COM.txt.gz"
+    ],
+    "phenocode": "OSK_PAINSL_COM",
+    "phenostring": "Pain in knee climbing down stairs or walking down slopes - past 4 weeks",
+    "category": "health",
+    "num_cases": 5553,
+    "num_controls": 18819,
+    "num_samples": 24372
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OSK_SWELL_COM.txt.gz"
+    ],
+    "phenocode": "OSK_SWELL_COM",
+    "phenostring": "Swelling in knee - past 4 weeks",
+    "category": "health",
+    "num_cases": 2222,
+    "num_controls": 22152,
+    "num_samples": 24374
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OST_BCKPPM_COM.txt.gz"
+    ],
+    "phenocode": "OST_BCKPPM_COM",
+    "phenostring": "Back pain past 12 months",
+    "category": "health",
+    "num_cases": 4985,
+    "num_controls": 19442,
+    "num_samples": 24427
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OST_BONE_COM.txt.gz"
+    ],
+    "phenocode": "OST_BONE_COM",
+    "phenostring": "Broken bone from fall or injury",
+    "category": "health",
+    "num_cases": 3708,
+    "num_controls": 20709,
+    "num_samples": 24417
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OST_BP_COM.txt.gz"
+    ],
+    "phenocode": "OST_BP_COM",
+    "phenostring": "Back pain at least one month",
+    "category": "health",
+    "num_cases": 8235,
+    "num_controls": 16197,
+    "num_samples": 24432
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OST_CST_COM.txt.gz"
+    ],
+    "phenocode": "OST_CST_COM",
+    "phenostring": "Ever taken systemic corticosteroids",
+    "category": "medications",
+    "num_cases": 3171,
+    "num_controls": 20852,
+    "num_samples": 24023
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OST_FRAC_OT_COM.txt.gz"
+    ],
+    "phenocode": "OST_FRAC_OT_COM",
+    "phenostring": "Type of fracture - Other",
+    "category": "health",
+    "num_cases": 2699,
+    "num_controls": 21718,
+    "num_samples": 24417
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_OST_MOM_COM.txt.gz"
+    ],
+    "phenocode": "OST_MOM_COM",
+    "phenostring": "Mother hip fracture after 50",
+    "category": "health",
+    "num_cases": 2512,
+    "num_controls": 21368,
+    "num_samples": 23880
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_CRPRSN_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_CRPRSN_MCQ",
+    "phenostring": "PASE scale: Engaged in caring for another person - past 7 days",
+    "category": "behaviour",
+    "num_cases": 7212,
+    "num_controls": 16336,
+    "num_samples": 23548
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_EXER_CAL_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_EXER_CAL_MCQ",
+    "phenostring": "PASE scale: Exercised to increase muscle strength - Callisthenics",
+    "category": "behaviour",
+    "num_cases": 1919,
+    "num_controls": 21626,
+    "num_samples": 23545
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_EXER_OT_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_EXER_OT_MCQ",
+    "phenostring": "PASE scale: Exercised to increase muscle strength - Other",
+    "category": "behaviour",
+    "num_cases": 1408,
+    "num_controls": 22137,
+    "num_samples": 23545
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_EXER_PUS_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_EXER_PUS_MCQ",
+    "phenostring": "PASE scale: Exercised to increase muscle strength - Push-ups",
+    "category": "behaviour",
+    "num_cases": 1706,
+    "num_controls": 21839,
+    "num_samples": 23545
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_EXER_SIT_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_EXER_SIT_MCQ",
+    "phenostring": "PASE scale: Exercised to increase muscle strength - Sit-ups",
+    "category": "behaviour",
+    "num_cases": 1742,
+    "num_controls": 21803,
+    "num_samples": 23545
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_EXER_WEI_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_EXER_WEI_MCQ",
+    "phenostring": "PASE scale: Exercised to increase muscle strength - Weight lifting and hand weights",
+    "category": "behaviour",
+    "num_cases": 4664,
+    "num_controls": 18881,
+    "num_samples": 23545
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_HMREPAIR_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_HMREPAIR_MCQ",
+    "phenostring": "PASE scale: Engaged in home repairs - past 7 days",
+    "category": "behaviour",
+    "num_cases": 5845,
+    "num_controls": 17696,
+    "num_samples": 23541
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_HVYHSWK_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_HVYHSWK_MCQ",
+    "phenostring": "PASE scale: Engaged in heavy housework or chores - past 7 days",
+    "category": "behaviour",
+    "num_cases": 16617,
+    "num_controls": 6930,
+    "num_samples": 23547
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_HVYODA_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_HVYODA_MCQ",
+    "phenostring": "PASE scale: Engaged in lawn work or yard care - past 7 days",
+    "category": "behaviour",
+    "num_cases": 12216,
+    "num_controls": 11335,
+    "num_samples": 23551
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_LSPRT_YOG_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_LSPRT_YOG_MCQ",
+    "phenostring": "PASE scale: Participated in light sport or activity - Yoga or stretching",
+    "category": "behaviour",
+    "num_cases": 2600,
+    "num_controls": 20951,
+    "num_samples": 23551
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_LTHSWK_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_LTHSWK_MCQ",
+    "phenostring": "PASE scale: Engaged in light housework - past 7 days",
+    "category": "behaviour",
+    "num_cases": 22379,
+    "num_controls": 1169,
+    "num_samples": 23548
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_LTODA_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_LTODA_MCQ",
+    "phenostring": "PASE scale: Engaged in outdoor gardening, sweeping the balcony or the stairs - past 7 days",
+    "category": "behaviour",
+    "num_cases": 12530,
+    "num_controls": 11024,
+    "num_samples": 23554
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_MSPRT_GOL_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_MSPRT_GOL_MCQ",
+    "phenostring": "PASE scale: Participated in moderate sport or activity - Golf (without a cart)",
+    "category": "behaviour",
+    "num_cases": 957,
+    "num_controls": 22593,
+    "num_samples": 23550
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_MSPRT_OT_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_MSPRT_OT_MCQ",
+    "phenostring": "PASE scale: Participated in other moderate sport or activity",
+    "category": "behaviour",
+    "num_cases": 834,
+    "num_controls": 22716,
+    "num_samples": 23550
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_PARTPA_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_PARTPA_MCQ",
+    "phenostring": "Desire to participate in more physical activities - past 12 months",
+    "category": "behaviour",
+    "num_cases": 13550,
+    "num_controls": 9948,
+    "num_samples": 23498
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_PRVPA_ENG_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_PRVPA_ENG_MCQ",
+    "phenostring": "Factor preventing participation in more physical activities - Lack of energy",
+    "category": "behaviour",
+    "num_cases": 1023,
+    "num_controls": 22475,
+    "num_samples": 23498
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_PRVPA_HEA_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_PRVPA_HEA_MCQ",
+    "phenostring": "Factor preventing participation in more physical activities - Health condition limitation",
+    "category": "behaviour",
+    "num_cases": 2465,
+    "num_controls": 21033,
+    "num_samples": 23498
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_PRVPA_ILL_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_PRVPA_ILL_MCQ",
+    "phenostring": "Factor preventing participation in more physical activities - Illness/injury",
+    "category": "behaviour",
+    "num_cases": 1973,
+    "num_controls": 21525,
+    "num_samples": 23498
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_PRVPA_MOT_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_PRVPA_MOT_MCQ",
+    "phenostring": "Factor preventing participation in more physical activities - Lack of motivation",
+    "category": "behaviour",
+    "num_cases": 2726,
+    "num_controls": 20772,
+    "num_samples": 23498
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_PRVPA_OT_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_PRVPA_OT_MCQ",
+    "phenostring": "Factor preventing participation in more physical activities - Other",
+    "category": "behaviour",
+    "num_cases": 2428,
+    "num_controls": 21070,
+    "num_samples": 23498
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_PRVPA_TIM_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_PRVPA_TIM_MCQ",
+    "phenostring": "Factor preventing participation in more physical activities - Lack of time",
+    "category": "behaviour",
+    "num_cases": 5673,
+    "num_controls": 17825,
+    "num_samples": 23498
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SIT_BIN_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SIT_BIN_MCQ",
+    "phenostring": "PASE scale: Participated in sitting activities - Bingo, cards or other games",
+    "category": "behaviour",
+    "num_cases": 2149,
+    "num_controls": 21391,
+    "num_samples": 23540
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SIT_COM_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SIT_COM_MCQ",
+    "phenostring": "PASE scale: Participated in sitting activities - Computer activities",
+    "category": "behaviour",
+    "num_cases": 16910,
+    "num_controls": 6630,
+    "num_samples": 23540
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SIT_CRO_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SIT_CRO_MCQ",
+    "phenostring": "PASE scale: Participated in sitting activities - Crosswords, puzzles, etc.",
+    "category": "behaviour",
+    "num_cases": 4177,
+    "num_controls": 19363,
+    "num_samples": 23540
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SIT_HAN_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SIT_HAN_MCQ",
+    "phenostring": "PASE scale: Participated in sitting activities - Handicrafts",
+    "category": "behaviour",
+    "num_cases": 3002,
+    "num_controls": 20538,
+    "num_samples": 23540
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SIT_LIS_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SIT_LIS_MCQ",
+    "phenostring": "PASE scale: Participated in sitting activities - Listening to radio/music",
+    "category": "behaviour",
+    "num_cases": 3314,
+    "num_controls": 20226,
+    "num_samples": 23540
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SIT_OT_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SIT_OT_MCQ",
+    "phenostring": "PASE scale: Participated in sitting activities - Other",
+    "category": "behaviour",
+    "num_cases": 1590,
+    "num_controls": 21950,
+    "num_samples": 23540
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SIT_REA_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SIT_REA_MCQ",
+    "phenostring": "PASE scale: Participated in sitting activities - Reading",
+    "category": "behaviour",
+    "num_cases": 18281,
+    "num_controls": 5259,
+    "num_samples": 23540
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SIT_TV_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SIT_TV_MCQ",
+    "phenostring": "PASE scale: Participated in sitting activities - Watching TV",
+    "category": "behaviour",
+    "num_cases": 20560,
+    "num_controls": 2980,
+    "num_samples": 23540
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SIT_VIS_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SIT_VIS_MCQ",
+    "phenostring": "PASE scale: Participated in sitting activities - Visiting with others",
+    "category": "behaviour",
+    "num_cases": 6014,
+    "num_controls": 17526,
+    "num_samples": 23540
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SSPRT_AER_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SSPRT_AER_MCQ",
+    "phenostring": "PASE scale: Participated in strenuous sport or activity - Aerobic dance or water aerobics",
+    "category": "behaviour",
+    "num_cases": 1055,
+    "num_controls": 22493,
+    "num_samples": 23548
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SSPRT_BIC_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SSPRT_BIC_MCQ",
+    "phenostring": "PASE scale: Participated in strenuous sport or activity - Bicycling/exercise bike",
+    "category": "behaviour",
+    "num_cases": 3495,
+    "num_controls": 20053,
+    "num_samples": 23548
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SSPRT_JOG_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SSPRT_JOG_MCQ",
+    "phenostring": "PASE scale: Participated in strenuous sport or activity - Jogging",
+    "category": "behaviour",
+    "num_cases": 1482,
+    "num_controls": 22066,
+    "num_samples": 23548
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SSPRT_OT_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SSPRT_OT_MCQ",
+    "phenostring": "PASE scale: Participated in other strenuous sport or activity",
+    "category": "behaviour",
+    "num_cases": 1327,
+    "num_controls": 22221,
+    "num_samples": 23548
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_SSPRT_SWI_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_SSPRT_SWI_MCQ",
+    "phenostring": "PASE scale: Participated in strenuous sport or activity - Swimming (with laps)",
+    "category": "behaviour",
+    "num_cases": 1042,
+    "num_controls": 22506,
+    "num_samples": 23548
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PA2_WRK_MCQ.txt.gz"
+    ],
+    "phenocode": "PA2_WRK_MCQ",
+    "phenostring": "PASE scale: Work for pay or volunteer  - past 7 days",
+    "category": "behaviour",
+    "num_cases": 13252,
+    "num_controls": 10299,
+    "num_samples": 23551
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PKD_BAL_COM.txt.gz"
+    ],
+    "phenocode": "PKD_BAL_COM",
+    "phenostring": "Balance poor",
+    "category": "health",
+    "num_cases": 3051,
+    "num_controls": 21349,
+    "num_samples": 24400
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PKD_BUTON_COM.txt.gz"
+    ],
+    "phenocode": "PKD_BUTON_COM",
+    "phenostring": "Trouble buttoning buttons",
+    "category": "health",
+    "num_cases": 1584,
+    "num_controls": 22867,
+    "num_samples": 24451
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PKD_FACE_COM.txt.gz"
+    ],
+    "phenocode": "PKD_FACE_COM",
+    "phenostring": "Face less expressive",
+    "category": "health",
+    "num_cases": 908,
+    "num_controls": 22891,
+    "num_samples": 23799
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PKD_RISE_COM.txt.gz"
+    ],
+    "phenocode": "PKD_RISE_COM",
+    "phenostring": "Trouble rising from chair",
+    "category": "health",
+    "num_cases": 1640,
+    "num_controls": 22792,
+    "num_samples": 24432
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PKD_SHKE_COM.txt.gz"
+    ],
+    "phenocode": "PKD_SHKE_COM",
+    "phenostring": "Arms or legs shake",
+    "category": "health",
+    "num_cases": 1712,
+    "num_controls": 22743,
+    "num_samples": 24455
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PKD_SMWRT_COM.txt.gz"
+    ],
+    "phenocode": "PKD_SMWRT_COM",
+    "phenostring": "Handwriting smaller",
+    "category": "health",
+    "num_cases": 1575,
+    "num_controls": 22560,
+    "num_samples": 24135
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PKD_VOICE_COM.txt.gz"
+    ],
+    "phenocode": "PKD_VOICE_COM",
+    "phenostring": "Voice softer",
+    "category": "health",
+    "num_cases": 1269,
+    "num_controls": 23111,
+    "num_samples": 24380
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PKD_WALK_COM.txt.gz"
+    ],
+    "phenocode": "PKD_WALK_COM",
+    "phenostring": "Shuffle feet",
+    "category": "health",
+    "num_cases": 1069,
+    "num_controls": 23339,
+    "num_samples": 24408
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_PSD_DCTOFF_COM.txt.gz"
+    ],
+    "phenocode": "PSD_DCTOFF_COM",
+    "phenostring": "Positive screen for PTSD",
+    "category": "health",
+    "num_cases": 1163,
+    "num_controls": 23296,
+    "num_samples": 24459
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_RET_RTRN_COM.txt.gz"
+    ],
+    "phenocode": "RET_RTRN_COM",
+    "phenostring": "Retired then returned to work",
+    "category": "behaviour",
+    "num_cases": 3635,
+    "num_controls": 20731,
+    "num_samples": 24366
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_RET_SPSE_COM.txt.gz"
+    ],
+    "phenocode": "RET_SPSE_COM",
+    "phenostring": "Retirement status of spouse/ partner",
+    "category": "socio-economic",
+    "num_cases": 7718,
+    "num_controls": 9186,
+    "num_samples": 16904
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_RET_WHY_AG_COM.txt.gz"
+    ],
+    "phenocode": "RET_WHY_AG_COM",
+    "phenostring": "An agreement with spouse/ partner contributed to retirement",
+    "category": "behaviour",
+    "num_cases": 2849,
+    "num_controls": 21565,
+    "num_samples": 24414
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_RET_WHY_CM_COM.txt.gz"
+    ],
+    "phenocode": "RET_WHY_CM_COM",
+    "phenostring": "Qualifying for pension contributed to retirement",
+    "category": "socio-economic",
+    "num_cases": 4675,
+    "num_controls": 19739,
+    "num_samples": 24414
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_RET_WHY_HL_COM.txt.gz"
+    ],
+    "phenocode": "RET_WHY_HL_COM",
+    "phenostring": "Health/ disability/ stress contributed to retirement",
+    "category": "health",
+    "num_cases": 3234,
+    "num_controls": 21180,
+    "num_samples": 24414
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_RET_WHY_HO_COM.txt.gz"
+    ],
+    "phenocode": "RET_WHY_HO_COM",
+    "phenostring": "Desire to pursue hobbies or activities of interest contributed to retirement",
+    "category": "behaviour",
+    "num_cases": 4256,
+    "num_controls": 20158,
+    "num_samples": 24414
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_RET_WHY_IN_COM.txt.gz"
+    ],
+    "phenocode": "RET_WHY_IN_COM",
+    "phenostring": "Employer incentives contributed to retirement",
+    "category": "socio-economic",
+    "num_cases": 1590,
+    "num_controls": 22824,
+    "num_samples": 24414
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_RET_WHY_OR_COM.txt.gz"
+    ],
+    "phenocode": "RET_WHY_OR_COM",
+    "phenostring": "Organizational restructuring contributed to retirement",
+    "category": "socio-economic",
+    "num_cases": 2099,
+    "num_controls": 22315,
+    "num_samples": 24414
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_RET_WHY_PR_COM.txt.gz"
+    ],
+    "phenocode": "RET_WHY_PR_COM",
+    "phenostring": "Providing care contributed to retirement",
+    "category": "socio-economic",
+    "num_cases": 1310,
+    "num_controls": 23104,
+    "num_samples": 24414
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_RET_WHY_RE_COM.txt.gz"
+    ],
+    "phenocode": "RET_WHY_RE_COM",
+    "phenostring": "Financial possibility contributed to retirement",
+    "category": "socio-economic",
+    "num_cases": 6469,
+    "num_controls": 17945,
+    "num_samples": 24414
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_RET_WHY_ST_COM.txt.gz"
+    ],
+    "phenocode": "RET_WHY_ST_COM",
+    "phenostring": "Desire to stop working contributed to retirement",
+    "category": "behaviour",
+    "num_cases": 5569,
+    "num_controls": 18845,
+    "num_samples": 24414
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ROS_LOC_04_COM.txt.gz"
+    ],
+    "phenocode": "ROS_LOC_04_COM",
+    "phenostring": "WHO Rose - Location of pain or discomfort: Position-04",
+    "category": "health",
+    "num_cases": 3730,
+    "num_controls": 19225,
+    "num_samples": 22955
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ROS_LOC_05_COM.txt.gz"
+    ],
+    "phenocode": "ROS_LOC_05_COM",
+    "phenostring": "WHO Rose - Location of pain or discomfort: Position-05",
+    "category": "health",
+    "num_cases": 1017,
+    "num_controls": 21938,
+    "num_samples": 22955
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ROS_LOC_06_COM.txt.gz"
+    ],
+    "phenocode": "ROS_LOC_06_COM",
+    "phenostring": "WHO Rose - Location of pain or discomfort: Position-06",
+    "category": "health",
+    "num_cases": 2102,
+    "num_controls": 20853,
+    "num_samples": 22955
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_ROS_PAIN_COM.txt.gz"
+    ],
+    "phenocode": "ROS_PAIN_COM",
+    "phenostring": "WHO Rose - Chest pain or discomfort",
+    "category": "health",
+    "num_cases": 5722,
+    "num_controls": 17233,
+    "num_samples": 22955
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SDC_FIMM_COM.txt.gz"
+    ],
+    "phenocode": "SDC_FIMM_COM",
+    "phenostring": "Immigration Flag",
+    "category": "Identity",
+    "num_cases": 3589,
+    "num_controls": 20913,
+    "num_samples": 24502
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SLE_LGEVE_COM.txt.gz"
+    ],
+    "phenocode": "SLE_LGEVE_COM",
+    "phenostring": "Uncomfortable feelings or urges in legs worse during evening/ at night",
+    "category": "health",
+    "num_cases": 6843,
+    "num_controls": 2894,
+    "num_samples": 9737
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SLE_LGIMPR_COM.txt.gz"
+    ],
+    "phenocode": "SLE_LGIMPR_COM",
+    "phenostring": "Uncomfortable feelings or urges in legs disappear when active",
+    "category": "health",
+    "num_cases": 8163,
+    "num_controls": 1460,
+    "num_samples": 9623
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SMK_100CG_COM.txt.gz"
+    ],
+    "phenocode": "SMK_100CG_COM",
+    "phenostring": "Ever smoked 100 cigarettes or more",
+    "category": "behaviour",
+    "num_cases": 13067,
+    "num_controls": 11416,
+    "num_samples": 24483
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SMK_EVRDL_COM.txt.gz"
+    ],
+    "phenocode": "SMK_EVRDL_COM",
+    "phenostring": "Ever smoked cigarettes daily",
+    "category": "behaviour",
+    "num_cases": 10008,
+    "num_controls": 5217,
+    "num_samples": 15225
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SMK_OTREG_COM.txt.gz"
+    ],
+    "phenocode": "SMK_OTREG_COM",
+    "phenostring": "Ever used other tobacco or nicotine products",
+    "category": "behaviour",
+    "num_cases": 2224,
+    "num_controls": 22278,
+    "num_samples": 24502
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SMK_TYPEOT_PI_COM.txt.gz"
+    ],
+    "phenocode": "SMK_TYPEOT_PI_COM",
+    "phenostring": "Ever used tobacco pipes",
+    "category": "behaviour",
+    "num_cases": 1349,
+    "num_controls": 23153,
+    "num_samples": 24502
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SMK_WHLCG_COM.txt.gz"
+    ],
+    "phenocode": "SMK_WHLCG_COM",
+    "phenostring": "Ever smoked a whole cigarette",
+    "category": "behaviour",
+    "num_cases": 3909,
+    "num_controls": 7461,
+    "num_samples": 11370
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SNO_SNORE_MCQ.txt.gz"
+    ],
+    "phenocode": "SNO_SNORE_MCQ",
+    "phenostring": "Snores loudly",
+    "category": "behaviour",
+    "num_cases": 6009,
+    "num_controls": 15445,
+    "num_samples": 21454
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SNO_STOPBREATH_MCQ.txt.gz"
+    ],
+    "phenocode": "SNO_STOPBREATH_MCQ",
+    "phenostring": "Stopped breathing in sleep",
+    "category": "behaviour",
+    "num_cases": 3450,
+    "num_controls": 19633,
+    "num_samples": 23083
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_FPAR_COM.txt.gz"
+    ],
+    "phenocode": "SPA_FPAR_COM",
+    "phenostring": "Flag for Participation in Community-Related Activities (past 12 months)",
+    "category": "behaviour",
+    "num_cases": 24445,
+    "num_controls": 31,
+    "num_samples": 24476
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_MORAC_COM.txt.gz"
+    ],
+    "phenocode": "SPA_MORAC_COM",
+    "phenostring": "Desire to participate in more activities (past 12 months)",
+    "category": "behaviour",
+    "num_cases": 11528,
+    "num_controls": 12924,
+    "num_samples": 24452
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_PREVAC_CO_COM.txt.gz"
+    ],
+    "phenocode": "SPA_PREVAC_CO_COM",
+    "phenostring": "Cost prevented activities participation",
+    "category": "socio-economic",
+    "num_cases": 838,
+    "num_controls": 23614,
+    "num_samples": 24452
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_PREVAC_GA_COM.txt.gz"
+    ],
+    "phenocode": "SPA_PREVAC_GA_COM",
+    "phenostring": "Going alone prevented activities participation",
+    "category": "behaviour",
+    "num_cases": 1550,
+    "num_controls": 22902,
+    "num_samples": 24452
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_PREVAC_HC_COM.txt.gz"
+    ],
+    "phenocode": "SPA_PREVAC_HC_COM",
+    "phenostring": "Health condition/ limitation prevented activities participation",
+    "category": "health",
+    "num_cases": 1894,
+    "num_controls": 22558,
+    "num_samples": 24452
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_PREVAC_MO_COM.txt.gz"
+    ],
+    "phenocode": "SPA_PREVAC_MO_COM",
+    "phenostring": "Lack of motivation prevented activities participation",
+    "category": "behaviour",
+    "num_cases": 1523,
+    "num_controls": 22929,
+    "num_samples": 24452
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_PREVAC_PR_COM.txt.gz"
+    ],
+    "phenocode": "SPA_PREVAC_PR_COM",
+    "phenostring": "Personal/ family responsibility prevented activities participation",
+    "category": "behaviour",
+    "num_cases": 2228,
+    "num_controls": 22224,
+    "num_samples": 24452
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_PREVAC_TB_COM.txt.gz"
+    ],
+    "phenocode": "SPA_PREVAC_TB_COM",
+    "phenostring": "Being too busy prevented activities participation",
+    "category": "behaviour",
+    "num_cases": 5207,
+    "num_controls": 19245,
+    "num_samples": 24452
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_PREVAC_TI_COM.txt.gz"
+    ],
+    "phenocode": "SPA_PREVAC_TI_COM",
+    "phenostring": "Suitability of activity timing  prevented participation",
+    "category": "behaviour",
+    "num_cases": 1334,
+    "num_controls": 23118,
+    "num_samples": 24452
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_SOAC_DT_COM.txt.gz"
+    ],
+    "phenocode": "SPA_SOAC_DT_COM",
+    "phenostring": "Gone on a daytrip or outing in last 12 months",
+    "category": "behaviour",
+    "num_cases": 22784,
+    "num_controls": 1708,
+    "num_samples": 24492
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_SOAC_HIC_COM.txt.gz"
+    ],
+    "phenocode": "SPA_SOAC_HIC_COM",
+    "phenostring": "Taken a holiday in Canada in last 12 months",
+    "category": "behaviour",
+    "num_cases": 17218,
+    "num_controls": 7274,
+    "num_samples": 24492
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_SOAC_HOC_COM.txt.gz"
+    ],
+    "phenocode": "SPA_SOAC_HOC_COM",
+    "phenostring": "Taken a holiday outside of Canada in last 12 months",
+    "category": "behaviour",
+    "num_cases": 14791,
+    "num_controls": 9701,
+    "num_samples": 24492
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_SOAC_HY_COM.txt.gz"
+    ],
+    "phenocode": "SPA_SOAC_HY_COM",
+    "phenostring": "Has a hobby or pastime",
+    "category": "behaviour",
+    "num_cases": 22816,
+    "num_controls": 1676,
+    "num_samples": 24492
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_SOAC_INT_COM.txt.gz"
+    ],
+    "phenocode": "SPA_SOAC_INT_COM",
+    "phenostring": "Uses internet and/or e-mail",
+    "category": "behaviour",
+    "num_cases": 22371,
+    "num_controls": 2121,
+    "num_samples": 24492
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_SOAC_RNP_COM.txt.gz"
+    ],
+    "phenocode": "SPA_SOAC_RNP_COM",
+    "phenostring": "Reads a daily newspaper",
+    "category": "behaviour",
+    "num_cases": 17006,
+    "num_controls": 7486,
+    "num_samples": 24492
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_SPA_SOAC_VOT_COM.txt.gz"
+    ],
+    "phenocode": "SPA_SOAC_VOT_COM",
+    "phenostring": "Voted in last election",
+    "category": "behaviour",
+    "num_cases": 23063,
+    "num_controls": 1429,
+    "num_samples": 24492
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_STR_NOEXP_COM.txt.gz"
+    ],
+    "phenocode": "STR_NOEXP_COM",
+    "phenostring": "Sudden loss of expression ability",
+    "category": "health",
+    "num_cases": 1066,
+    "num_controls": 23376,
+    "num_samples": 24442
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_STR_NOVIS_COM.txt.gz"
+    ],
+    "phenocode": "STR_NOVIS_COM",
+    "phenostring": "Sudden loss of vision in one eye",
+    "category": "health",
+    "num_cases": 857,
+    "num_controls": 23578,
+    "num_samples": 24435
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_STR_NUMB_COM.txt.gz"
+    ],
+    "phenocode": "STR_NUMB_COM",
+    "phenostring": "One-sided sudden numbness",
+    "category": "health",
+    "num_cases": 1378,
+    "num_controls": 23063,
+    "num_samples": 24441
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_STR_VIS_COM.txt.gz"
+    ],
+    "phenocode": "STR_VIS_COM",
+    "phenostring": "Sudden painless loss of vision",
+    "category": "health",
+    "num_cases": 1384,
+    "num_controls": 23060,
+    "num_samples": 24444
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_STR_WEAK_COM.txt.gz"
+    ],
+    "phenocode": "STR_WEAK_COM",
+    "phenostring": "One-sided sudden painless weakness",
+    "category": "health",
+    "num_cases": 992,
+    "num_controls": 23435,
+    "num_samples": 24427
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_MCR_ED_COM.txt.gz"
+    ],
+    "phenocode": "TBI_MCR_ED_COM",
+    "phenostring": "Emergency department visit for head injury",
+    "category": "health",
+    "num_cases": 3220,
+    "num_controls": 21253,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_MCR_HO_COM.txt.gz"
+    ],
+    "phenocode": "TBI_MCR_HO_COM",
+    "phenostring": "Hospitalization for head injury",
+    "category": "health",
+    "num_cases": 1516,
+    "num_controls": 22957,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_MCR_NONE_COM.txt.gz"
+    ],
+    "phenocode": "TBI_MCR_NONE_COM",
+    "phenostring": "Received no medical care for head injury",
+    "category": "health",
+    "num_cases": 2339,
+    "num_controls": 22134,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_MCR_PHA_COM.txt.gz"
+    ],
+    "phenocode": "TBI_MCR_PHA_COM",
+    "phenostring": "Physician assessment/visit for head injury",
+    "category": "health",
+    "num_cases": 2399,
+    "num_controls": 22074,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_POSITIVE_COM.txt.gz"
+    ],
+    "phenocode": "TBI_POSITIVE_COM",
+    "phenostring": "Positive Screen for Traumatic Brain Injury (TBI)",
+    "category": "health",
+    "num_cases": 6102,
+    "num_controls": 18403,
+    "num_samples": 24505
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_PROB_NONE_COM.txt.gz"
+    ],
+    "phenocode": "TBI_PROB_NONE_COM",
+    "phenostring": "Not experiencing any problems related to head injury",
+    "category": "health",
+    "num_cases": 5486,
+    "num_controls": 18987,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_RSLT_DRM_COM.txt.gz"
+    ],
+    "phenocode": "TBI_RSLT_DRM_COM",
+    "phenostring": "Head injury result - not remembering injury",
+    "category": "health",
+    "num_cases": 1323,
+    "num_controls": 23150,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_RSLT_DZ_COM.txt.gz"
+    ],
+    "phenocode": "TBI_RSLT_DZ_COM",
+    "phenostring": "Head injury result - dazed, confused, or \u201cseeing stars\u201d",
+    "category": "health",
+    "num_cases": 4254,
+    "num_controls": 20219,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_RSLT_KO1_COM.txt.gz"
+    ],
+    "phenocode": "TBI_RSLT_KO1_COM",
+    "phenostring": "Head injury result - lost consciousness, less than 1min",
+    "category": "health",
+    "num_cases": 1593,
+    "num_controls": 22880,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_RSLT_KO20_COM.txt.gz"
+    ],
+    "phenocode": "TBI_RSLT_KO20_COM",
+    "phenostring": "Head injury result - lost consciousness, 1 to 20 min",
+    "category": "health",
+    "num_cases": 1184,
+    "num_controls": 23289,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_RSLT_NONE_COM.txt.gz"
+    ],
+    "phenocode": "TBI_RSLT_NONE_COM",
+    "phenostring": "Head injury did not result in any of above",
+    "category": "health",
+    "num_cases": 1218,
+    "num_controls": 23255,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_TYP_FL_COM.txt.gz"
+    ],
+    "phenocode": "TBI_TYP_FL_COM",
+    "phenostring": "Head Injury caused by fall",
+    "category": "health",
+    "num_cases": 3058,
+    "num_controls": 21415,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_TYP_NONE_COM.txt.gz"
+    ],
+    "phenocode": "TBI_TYP_NONE_COM",
+    "phenostring": "Head Injury cause, None",
+    "category": "health",
+    "num_cases": 16319,
+    "num_controls": 8154,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_TYP_SPT_COM.txt.gz"
+    ],
+    "phenocode": "TBI_TYP_SPT_COM",
+    "phenostring": "Head Injury caused by sports-related activity",
+    "category": "health",
+    "num_cases": 3262,
+    "num_controls": 21211,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TBI_TYP_VH_COM.txt.gz"
+    ],
+    "phenocode": "TBI_TYP_VH_COM",
+    "phenostring": "Head Injury caused by vehicular crash",
+    "category": "health",
+    "num_cases": 1959,
+    "num_controls": 22514,
+    "num_samples": 24473
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TMT_PASS_COM.txt.gz"
+    ],
+    "phenocode": "TMT_PASS_COM",
+    "phenostring": "Subject passed all practice trials",
+    "category": "health",
+    "num_cases": 24266,
+    "num_controls": 15,
+    "num_samples": 24281
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_ACCTR_NN_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_ACCTR_NN_MCQ",
+    "phenostring": "Did not use accessible transit: Not needed",
+    "category": "behaviour",
+    "num_cases": 21138,
+    "num_controls": 2420,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_BS_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_BS_MCQ",
+    "phenostring": "Participant avoids: Crossing or entering busy streets without traffic signals",
+    "category": "behaviour",
+    "num_cases": 2014,
+    "num_controls": 20319,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_CR_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_CR_MCQ",
+    "phenostring": "Participant avoids: Roundabouts",
+    "category": "behaviour",
+    "num_cases": 1072,
+    "num_controls": 21261,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_DW_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_DW_MCQ",
+    "phenostring": "Participant avoids: Driving at dawn / dusk",
+    "category": "behaviour",
+    "num_cases": 2911,
+    "num_controls": 19422,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_HV_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_HV_MCQ",
+    "phenostring": "Participant avoids: Heavy traffic",
+    "category": "behaviour",
+    "num_cases": 9146,
+    "num_controls": 13187,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_LG_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_LG_MCQ",
+    "phenostring": "Participant avoids: Travelling next to large trucks",
+    "category": "behaviour",
+    "num_cases": 4221,
+    "num_controls": 18112,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_ML_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_ML_MCQ",
+    "phenostring": "Participant avoids: Heavy traffic on multi-lane",
+    "category": "behaviour",
+    "num_cases": 7648,
+    "num_controls": 14685,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_NL_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_NL_MCQ",
+    "phenostring": "Participant avoids: Left hand turns without traffic lights or stop sign",
+    "category": "behaviour",
+    "num_cases": 1747,
+    "num_controls": 20586,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_NONE_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_NONE_MCQ",
+    "phenostring": "Participant avoids: Does not avoid these situations",
+    "category": "behaviour",
+    "num_cases": 6222,
+    "num_controls": 16111,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_NT_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_NT_MCQ",
+    "phenostring": "Participant avoids: Driving at night",
+    "category": "behaviour",
+    "num_cases": 6506,
+    "num_controls": 15827,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_RA_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_RA_MCQ",
+    "phenostring": "Participant avoids: On/off ramps",
+    "category": "behaviour",
+    "num_cases": 866,
+    "num_controls": 21467,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_SL_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_SL_MCQ",
+    "phenostring": "Participant avoids: Heavy traffic on single-lane",
+    "category": "behaviour",
+    "num_cases": 7214,
+    "num_controls": 15119,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_SN_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_SN_MCQ",
+    "phenostring": "Participant avoids: Driving in heavy rain / snow",
+    "category": "behaviour",
+    "num_cases": 8888,
+    "num_controls": 13445,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_AVOID_UN_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_AVOID_UN_MCQ",
+    "phenostring": "Participant avoids: unfamiliar routes",
+    "category": "behaviour",
+    "num_cases": 2529,
+    "num_controls": 19804,
+    "num_samples": 22333
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_CMNTY_CLI_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_CMNTY_CLI_MCQ",
+    "phenostring": "Reasons for moving to current location: Climate and natural environment",
+    "category": "behaviour",
+    "num_cases": 1044,
+    "num_controls": 22514,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_CMNTY_COS_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_CMNTY_COS_MCQ",
+    "phenostring": "Reasons for moving to current location: Lower cost of living",
+    "category": "behaviour",
+    "num_cases": 2418,
+    "num_controls": 21140,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_CMNTY_EMP_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_CMNTY_EMP_MCQ",
+    "phenostring": "Reasons for moving to current location: Employment opportunities",
+    "category": "behaviour",
+    "num_cases": 4748,
+    "num_controls": 18810,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_CMNTY_FAM_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_CMNTY_FAM_MCQ",
+    "phenostring": "Reasons for moving to current location: Proximity to family",
+    "category": "behaviour",
+    "num_cases": 3724,
+    "num_controls": 19834,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_CMNTY_HOU_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_CMNTY_HOU_MCQ",
+    "phenostring": "Reasons for moving to current location: Better / more suitable housing",
+    "category": "behaviour",
+    "num_cases": 9691,
+    "num_controls": 13867,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_CMNTY_REC_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_CMNTY_REC_MCQ",
+    "phenostring": "Reasons for moving to current location: Recreation facilities / services",
+    "category": "behaviour",
+    "num_cases": 1302,
+    "num_controls": 22256,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_CMNTY_RET_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_CMNTY_RET_MCQ",
+    "phenostring": "Reasons for moving to current location: Retirement / retirement plans",
+    "category": "behaviour",
+    "num_cases": 1036,
+    "num_controls": 22522,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_MEDTPC_ADV_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_MEDTPC_ADV_MCQ",
+    "phenostring": "Discussed with medical professional: General information / advice",
+    "category": "behaviour",
+    "num_cases": 871,
+    "num_controls": 20455,
+    "num_samples": 21326
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_MEDTPC_CON_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_MEDTPC_CON_MCQ",
+    "phenostring": "Discussed with medical professional: Safety related to medical condition",
+    "category": "behaviour",
+    "num_cases": 834,
+    "num_controls": 20492,
+    "num_samples": 21326
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_PUBTR_INC_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_PUBTR_INC_MCQ",
+    "phenostring": "Did not use public transit: Inconvenient schedule / route",
+    "category": "behaviour",
+    "num_cases": 3908,
+    "num_controls": 19650,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_PUBTR_NN_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_PUBTR_NN_MCQ",
+    "phenostring": "Did not use public transit: Not needed",
+    "category": "behaviour",
+    "num_cases": 9381,
+    "num_controls": 14177,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_PUBTR_PNU_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_PUBTR_PNU_MCQ",
+    "phenostring": "Did not use public transit: Prefer no to use",
+    "category": "behaviour",
+    "num_cases": 3228,
+    "num_controls": 20330,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_PUBTR_UNA_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_PUBTR_UNA_MCQ",
+    "phenostring": "Did not use public transit: Service unavailable in participant's area",
+    "category": "behaviour",
+    "num_cases": 2304,
+    "num_controls": 21254,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TRIP_BK_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TRIP_BK_MCQ",
+    "phenostring": "Typical weekly trips: Banking / business appointments",
+    "category": "behaviour",
+    "num_cases": 11356,
+    "num_controls": 12202,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TRIP_CH_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TRIP_CH_MCQ",
+    "phenostring": "Typical weekly trips: Church / worship service",
+    "category": "behaviour",
+    "num_cases": 5800,
+    "num_controls": 17758,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TRIP_FM_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TRIP_FM_MCQ",
+    "phenostring": "Typical weekly trips: Visiting friends / family",
+    "category": "behaviour",
+    "num_cases": 17644,
+    "num_controls": 5914,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TRIP_GR_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TRIP_GR_MCQ",
+    "phenostring": "Typical weekly trips: Grocery shopping",
+    "category": "behaviour",
+    "num_cases": 20806,
+    "num_controls": 2752,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TRIP_MD_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TRIP_MD_MCQ",
+    "phenostring": "Typical weekly trips: Medical appointments",
+    "category": "behaviour",
+    "num_cases": 5899,
+    "num_controls": 17659,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TRIP_OT_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TRIP_OT_MCQ",
+    "phenostring": "Typical weekly trips: Other",
+    "category": "behaviour",
+    "num_cases": 2042,
+    "num_controls": 21516,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TRIP_RI_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TRIP_RI_MCQ",
+    "phenostring": "Typical weekly trips: Recreational shopping, restaurants",
+    "category": "behaviour",
+    "num_cases": 16428,
+    "num_controls": 7130,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TRIP_RO_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TRIP_RO_MCQ",
+    "phenostring": "Typical weekly trips: Recreational trips to outdoor spaces",
+    "category": "behaviour",
+    "num_cases": 11389,
+    "num_controls": 12169,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TRIP_SO_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TRIP_SO_MCQ",
+    "phenostring": "Typical weekly trips: Social activities",
+    "category": "behaviour",
+    "num_cases": 10840,
+    "num_controls": 12718,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TRIP_WK_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TRIP_WK_MCQ",
+    "phenostring": "Typical weekly trips: Work commute",
+    "category": "behaviour",
+    "num_cases": 9691,
+    "num_controls": 13867,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TYPTR_CYC_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TYPTR_CYC_MCQ",
+    "phenostring": "Form of transport used in last month: Cycling",
+    "category": "behaviour",
+    "num_cases": 4220,
+    "num_controls": 19338,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TYPTR_NONE_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TYPTR_NONE_MCQ",
+    "phenostring": "Form of transport used in last month: None",
+    "category": "behaviour",
+    "num_cases": 1864,
+    "num_controls": 21694,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TYPTR_PAS_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TYPTR_PAS_MCQ",
+    "phenostring": "Form of transport used in last month: Passenger",
+    "category": "behaviour",
+    "num_cases": 17663,
+    "num_controls": 5895,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TYPTR_PUB_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TYPTR_PUB_MCQ",
+    "phenostring": "Form of transport used in last month: Public transit",
+    "category": "behaviour",
+    "num_cases": 7004,
+    "num_controls": 16554,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TYPTR_TAX_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TYPTR_TAX_MCQ",
+    "phenostring": "Form of transport used in last month: Taxi",
+    "category": "behaviour",
+    "num_cases": 3881,
+    "num_controls": 19677,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_TRA_TYPTR_WAL_MCQ.txt.gz"
+    ],
+    "phenocode": "TRA_TYPTR_WAL_MCQ",
+    "phenostring": "Form of transport used in last month: Walking",
+    "category": "behaviour",
+    "num_cases": 16560,
+    "num_controls": 6998,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_VIS_USE_MG_COM.txt.gz"
+    ],
+    "phenocode": "VIS_USE_MG_COM",
+    "phenostring": "Uses Magnifiers",
+    "category": "health",
+    "num_cases": 1964,
+    "num_controls": 22536,
+    "num_samples": 24500
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_ASSETS_CINH_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_ASSETS_CINH_MCQ",
+    "phenostring": "Type of assets: A covenant or inheritance",
+    "category": "socio-economic",
+    "num_cases": 2734,
+    "num_controls": 20824,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_ASSETS_FBS_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_ASSETS_FBS_MCQ",
+    "phenostring": "Type of assets: Farm or business property",
+    "category": "socio-economic",
+    "num_cases": 1475,
+    "num_controls": 22083,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_ASSETS_HSE_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_ASSETS_HSE_MCQ",
+    "phenostring": "Type of assets: House, apartment, or holiday home",
+    "category": "socio-economic",
+    "num_cases": 6593,
+    "num_controls": 16965,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_ASSETS_MOWD_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_ASSETS_MOWD_MCQ",
+    "phenostring": "Type of assets: Money owed to you by others",
+    "category": "socio-economic",
+    "num_cases": 2369,
+    "num_controls": 21189,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_ASSETS_NONE_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_ASSETS_NONE_MCQ",
+    "phenostring": "Type of assets: None",
+    "category": "socio-economic",
+    "num_cases": 2001,
+    "num_controls": 21557,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_ASSETS_OT_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_ASSETS_OT_MCQ",
+    "phenostring": "Type of assets: Other assets",
+    "category": "socio-economic",
+    "num_cases": 5364,
+    "num_controls": 18194,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_ASSETS_OTL_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_ASSETS_OTL_MCQ",
+    "phenostring": "Type of assets: Other land",
+    "category": "socio-economic",
+    "num_cases": 1887,
+    "num_controls": 21671,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_ASSETS_PRES_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_ASSETS_PRES_MCQ",
+    "phenostring": "Type of assets: Principal residence",
+    "category": "socio-economic",
+    "num_cases": 19714,
+    "num_controls": 3844,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_DEBT_CCRD_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_DEBT_CCRD_MCQ",
+    "phenostring": "Type of debts: Credit or store cards",
+    "category": "socio-economic",
+    "num_cases": 4517,
+    "num_controls": 19041,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_DEBT_LNS_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_DEBT_LNS_MCQ",
+    "phenostring": "Type of debts: Loans from banks or financial institutions",
+    "category": "socio-economic",
+    "num_cases": 6904,
+    "num_controls": 16654,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_DEBT_NONE_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_DEBT_NONE_MCQ",
+    "phenostring": "Type of debts: No debt",
+    "category": "socio-economic",
+    "num_cases": 14086,
+    "num_controls": 9472,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_LFINS_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_LFINS_MCQ",
+    "phenostring": "Have life insurance",
+    "category": "socio-economic",
+    "num_cases": 16817,
+    "num_controls": 6497,
+    "num_samples": 23314
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_SVNGS_ACC_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_SVNGS_ACC_MCQ",
+    "phenostring": "Type of saving and investments: Bank account",
+    "category": "socio-economic",
+    "num_cases": 22957,
+    "num_controls": 601,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_SVNGS_INV_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_SVNGS_INV_MCQ",
+    "phenostring": "Type of saving and investments: Financial investments outside of RRSPs",
+    "category": "socio-economic",
+    "num_cases": 17169,
+    "num_controls": 6389,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_SVNGS_RRSP_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_SVNGS_RRSP_MCQ",
+    "phenostring": "Type of saving and investments: RRSPs",
+    "category": "socio-economic",
+    "num_cases": 18942,
+    "num_controls": 4616,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_THNGS_FFO_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_THNGS_FFO_MCQ",
+    "phenostring": "Lack of money prevents: Having family/friends around for drink/meal",
+    "category": "socio-economic",
+    "num_cases": 952,
+    "num_controls": 22606,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_THNGS_FOD_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_THNGS_FOD_MCQ",
+    "phenostring": "Lack of money prevents: Buying first choices of food items",
+    "category": "socio-economic",
+    "num_cases": 1203,
+    "num_controls": 22355,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_THNGS_HLDY_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_THNGS_HLDY_MCQ",
+    "phenostring": "Lack of money prevents: Taking desired holidays",
+    "category": "socio-economic",
+    "num_cases": 6197,
+    "num_controls": 17361,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_THNGS_HMR_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_THNGS_HMR_MCQ",
+    "phenostring": "Lack of  money prevents: Keeping home in good state",
+    "category": "socio-economic",
+    "num_cases": 1376,
+    "num_controls": 22182,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_THNGS_NONE_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_THNGS_NONE_MCQ",
+    "phenostring": "Lack of money prevents: None of these",
+    "category": "socio-economic",
+    "num_cases": 16464,
+    "num_controls": 7094,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_THNGS_POF_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_THNGS_POF_MCQ",
+    "phenostring": "Lack of  money prevents: Having outfit for occasions",
+    "category": "socio-economic",
+    "num_cases": 1231,
+    "num_controls": 22327,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_THNGS_PRES_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_THNGS_PRES_MCQ",
+    "phenostring": "Lack of money prevents: Buying presents",
+    "category": "socio-economic",
+    "num_cases": 1750,
+    "num_controls": 21808,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_THNGS_REL_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_THNGS_REL_MCQ",
+    "phenostring": "Lack of money prevents: Replacement/repairing broken electrical goods",
+    "category": "socio-economic",
+    "num_cases": 1015,
+    "num_controls": 22543,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_THNGS_TRSLF_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_THNGS_TRSLF_MCQ",
+    "phenostring": "Lack of money prevents: Treating oneself",
+    "category": "socio-economic",
+    "num_cases": 2214,
+    "num_controls": 21344,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WEA_THNGS_TRSP_MCQ.txt.gz"
+    ],
+    "phenocode": "WEA_THNGS_TRSP_MCQ",
+    "phenostring": "Lack of money prevents: Paying fares or transportation costs",
+    "category": "socio-economic",
+    "num_cases": 816,
+    "num_controls": 22742,
+    "num_samples": 23558
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WLK_SMPTS_NONE_COM.txt.gz"
+    ],
+    "phenocode": "WLK_SMPTS_NONE_COM",
+    "phenostring": "Participant experienced no symptoms during 4m walk",
+    "category": "health",
+    "num_cases": 23210,
+    "num_controls": 1137,
+    "num_samples": 24347
+  },
+  {
+    "assoc_files": [
+      "/home/mikekaz/scratch/CLSA_Mike/Regenie/FINAL/Regenie_nextflow/Binary/results/step2/summary/Pheweb_ready_summary_files/_WLK_SMPTS_PAIN_COM.txt.gz"
+    ],
+    "phenocode": "WLK_SMPTS_PAIN_COM",
+    "phenostring": "Participant experienced hip, leg or calf pain during 4m walk",
+    "category": "health",
+    "num_cases": 1069,
+    "num_controls": 23278,
+    "num_samples": 24347
+  }
+]
